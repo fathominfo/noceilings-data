@@ -10,7 +10,7 @@ This is a repository of the data behind the [No Ceilings](http://noceilings.org)
 
 Learn more about No Ceilings [here](http://noceilings.org/about). 
 
-One of the most important aspects of this project is the compilation and collation of such a large number of statistics into a single location. We'd like to encourage students, researchers, hobbyists, and other interested parties to do their own analyses and visualizations on topics they care about.
+One of the most important aspects of this project is the compilation and collation of such a large number of statistics into a single location. We'd like to encourage students, researchers, and other curious people to do their own analyses and visualizations on topics they care about.
 
 
 ### Indicators
