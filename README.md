@@ -8,7 +8,7 @@ This is a repository of the data behind the [No Ceilings](http://noceilings.org)
 
 > This site and The Full Participation Report are the result—home to 850,000 data points, spanning more than 20 years, from over 190 countries. Through data visualizations and stories, we aim to present the gains and gaps in understandable, sharable ways—including by making the data open and easily available.
 
-Learn more about the No Ceilings project [here](http://noceilings.org/about). 
+Learn more about No Ceilings [here](http://noceilings.org/about). 
 
 One of the most important aspects of this project is the compilation and collation of such a large number of statistics into a single location. We'd like to encourage students, researchers, hobbyists, and other interested parties to do their own analyses and visualizations on topics they care about.
 
@@ -61,8 +61,8 @@ Again, the [enrollment](https://raw.githubusercontent.com/fathominfo/noceilings-
 
 To map a country from a 3-letter ISO code to its name, use [this list](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/countries.csv) (CSV format). The first column is the 3-digit code, the second column is the full country name. For some longer country names that fit poorly in the interface, a third column is present with the name used on the site. 
 
-explanation of the regional groupings
-regional groupings file
+The country region groupings are from the World Bank. Included in this repository is a file that maps [region code to region name](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/region-names.json) and another that maps [region codes to a list of countries](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/region-countries.json). Both are in JSON format. 
+
 
 ### Additional background
 
