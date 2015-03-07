@@ -1,6 +1,6 @@
 ## Data for No Ceilings: The Full Participation Project
 
-This is a repository of the data behind the [No Ceilings](http://noceilings.org) site. Please use http://noceilings.org/data when linking to this page. 
+This is a repository of the data behind the [No Ceilings](http://noceilings.org) site. To download all of the data in a single file, [http://noceilings.org/download](click here). Please use http://noceilings.org/data when linking to this page. 
 
 > In 1995, at the UN Fourth World Conference on Women in Beijing, leaders from governments and civil society around the world came together and committed to ensuring that women and girls have the opportunity to participate fully in all aspects of life.
 
