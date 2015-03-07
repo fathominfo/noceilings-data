@@ -19,6 +19,8 @@ The data consists of ~900 topics (referred to as "indicators"), each of which co
 
 The list of indicators is available in several formats: [HTML](http://htmlpreview.github.com/?https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.html), [Markdown](https://github.com/fathominfo/noceilings-data/blob/master/indicators.md), [CSV](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.csv), and [JSON](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.json). 
 
+Each indicator has a **series** entry that is unique. This code is used throughout to link from the indicators metadata file to the individual JSON and CSV files described in the next section.
+
 The data is collected from many sources. They can be seen in the **source** column. Data from noceilings.org that lists *WORLD Policy Analysis Center* as the source has additional restrictions on its use and therefore is not available as part of this repository. Visit [their site](http://worldpolicyforum.org/noceilings) for more information.
 
 
@@ -38,7 +40,9 @@ For instance, for the indicator titled *Can married women pursue a trade or prof
 
 ### Individual data files
 
-This repository includes ~900 indicators, each in single files in both CSV and JSON format. Most data are between the years 1995-2014, but some data has 1990 entries, often for an indicator available in five year intervals (i.e. 1990, 1995, 2000...)
+This repository includes ~900 indicators, each in single files in both [CSV](https://github.com/fathominfo/noceilings-data/tree/master/csv) and [JSON](https://github.com/fathominfo/noceilings-data/tree/master/json) format. Each file is named with its **series** code (described in the Indicators section, above).
+
+Most data are between the years 1995-2014, but some data has 1990 entries, often for an indicator available in five year intervals (i.e. 1990, 1995, 2000...)
 
 
 ##### CSV format
@@ -54,7 +58,7 @@ Note that while the columns are in order from oldest to most recent, they may sk
 
 Each file contains a single JSON object. Inside, a hash maps each 3-digit country code (see below) to another hash mapping each year to the value for that year. Years with no data are not included.
 
-Again, the [enrollment](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/json/GERSFEIN.json) and [profession](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/json/MWPTPWBL.json) data files. To save space (these are the same files used on the production server), the JSON files aren't beautified. 
+Again, the [enrollment](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/json/GERSFEIN.json) and [profession](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/json/MWPTPWBL.json) indicators, this time in JSON format. To save space (these are the same files used on the production server), the JSON files aren't beautified. 
 
 
 ### Countries and regions
