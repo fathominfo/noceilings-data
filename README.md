@@ -66,4 +66,4 @@ regional groupings file
 
 ### Additional background
 
-We (Fathom) received this data in a pair of flat files (one for numeric, one non-numeric). Where possible, we've corrected some errors, grouped the data into categories, and tried to create an accessible format that would be usable for other projects. 
+We (Fathom) received this data in a pair of flat files (one for numeric, one non-numeric). Where possible, we've corrected some errors, grouped the data into categories (the theme, primary, secondary, and tertiary columns), and are making this available in an accessible format to be usable for other projects. 

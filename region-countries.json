@@ -1,0 +1,10 @@
+{
+  "EAE" : ["AUS","BRN","KHM","CHN","COK","FJI","IDN","JPN","KIR","LAO","MYS","MHL","FSM","MNG","MMR","NRU","NZL","NIU","PRK","PLW","PNG","PHL","WSM","SGP","SLB","KOR","THA","TLS","TON","TUV","VUT","VNM"],
+  "ECE" : ["ALB","AND","ARM","AUT","AZE","BLR","BEL","BIH","BGR","HRV","CYP","CZE","DNK","EST","FIN","FRA","GEO","DEU","GRC","VAT","HUN","ISL","IRL","ITA","KAZ","KSV","KGZ","LVA","LIE","LTU","LUX","MKD","MCO","MNE","NLD","NOR","POL","PRT","MDA","ROU","RUS","SMR","SRB","SVK","SVN","ESP","SWE","CHE","TJK","TUR","TKM","UKR","GBR","UZB"],
+  "LCE" : ["ATG","ARG","BHS","BRB","BLZ","BOL","BRA","CHL","COL","CRI","CUB","DMA","DOM","ECU","SLV","GRD","GTM","GUY","HTI","HND","JAM","MEX","NIC","PAN","PRY","PER","KNA","LCA","VCT","SUR","TTO","URY","VEN"],
+  "MEE" : ["DZA","BHR","DJI","EGY","IRN","IRQ","ISR","JOR","KWT","LBN","LBY","MLT","MAR","OMN","QAT","SAU","SYR","TUN","ARE","YEM"],
+  "NAE" : ["CAN","USA"],
+  "SAE" : ["AFG","BGD","BTN","IND","MDV","NPL","PAK","LKA"],
+  "SSE" : ["AGO","BEN","BWA","BFA","BDI","CMR","CPV","CAF","TCD","COM","COG","COD","CIV","GNQ","ERI","ETH","GAB","GMB","GHA","GIN","GNB","KEN","LSO","LBR","MDG","MWI","MLI","MRT","MUS","MOZ","NAM","NER","NGA","RWA","STP","SEN","SYC","SLE","SOM","ZAF","SSD","SDN","SWZ","TZA","TGO","UGA","ZMB","ZWE"]
+  
+}
