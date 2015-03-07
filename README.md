@@ -19,7 +19,7 @@ One of the most important aspects of this project is the compilation and collati
 
 The data consists of ~900 topics (referred to as "indicators"), each of which covers a focus area across a set of years and a list of countries.
 
-The list of indicators is available in several formats: [HTML](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.html), [Markdown](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.md), [CSV](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.csv), and [JSON](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.json). 
+The list of indicators is available in several formats: [HTML](http://htmlpreview.github.com/?https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.html), [Markdown](https://github.com/fathominfo/noceilings-data/blob/master/indicators.md), [CSV](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.csv), and [JSON](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.json). 
 
 The data is collected from an enormous number of sources. They can be seen in the *source* column on the indicators list.
 
