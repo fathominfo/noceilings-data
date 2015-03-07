@@ -1,0 +1,24 @@
+ISO,2012
+AUS,288.61
+AUT,279.22
+CAN,281.47
+CZE,280.91
+DNK,280.92
+EST,275.64
+FIN,287.62
+DEU,279.8
+IRL,274.15
+JPN,289.41
+NLD,282.21
+NOR,283.37
+POL,271.28
+KOR,279.98
+SVK,280.27
+SWE,285.58
+USA,275.08
+# Series: PICPMNFE,
+"# Name: PIAAC mean scores, problem-solving, female",
+"# Definition: Survey of adult skills, score out of 500",
+# Source: Organisation for Economic Co-operation and Development (OECD),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

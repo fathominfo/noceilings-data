@@ -1,0 +1,64 @@
+ISO,2010
+ARG,11
+AUS,18
+BGD,17
+BRA,61
+BGR,33
+CMR,8
+CAN,63
+CHL,16
+CHN,12
+CRI,11
+COD,29
+DOM,20
+ECU,16
+EGY,16
+EST,6
+ETH,8
+FJI,10
+FIN,49
+FRA,8
+DEU,35
+GHA,16
+HUN,14
+IND,50
+ISR,27
+JAM,5
+JPN,73
+JOR,22
+KEN,17
+LBN,25
+LTU,10
+MDG,12
+MWI,22
+MUS,9
+MEX,25
+MAR,13
+MOZ,9
+NAM,5
+NZL,8
+NGA,20
+NOR,18
+PAK,50
+PER,31
+PHL,19
+POL,36
+KOR,28
+ROU,6
+RUS,18
+ZAF,21
+ESP,28
+SWE,53
+UGA,11
+UKR,19
+GBR,60
+USA,46
+VEN,13
+ZMB,8
+ZWE,7
+# Series: TMNCPTMG,
+"# Name: Total men in news company positions, top level management",
+"# Definition: Total men in news company positions, top level management",
+# Source: International Women’s Media Foundation (IWMF),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

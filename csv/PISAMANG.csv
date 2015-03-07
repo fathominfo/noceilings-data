@@ -1,0 +1,77 @@
+ISO,2012
+ALB,61.28
+ARG,56.12
+AUS,30.4
+AUT,30.05
+BEL,31.9
+BRA,50.13
+BGR,56.46
+CAN,30.73
+CHL,48.94
+COL,39.13
+CRI,36.47
+HRV,41.32
+CZE,36.32
+DNK,21.33
+EST,45.11
+FIN,35.58
+FRA,35.58
+DEU,28.48
+GRC,40.91
+HUN,39.83
+ISL,31.54
+IDN,58.91
+IRL,32.83
+ISR,24.06
+ITA,43.36
+JPN,46.39
+JOR,58.57
+KAZ,39.68
+LVA,38.56
+LIE,24.27
+LTU,44.07
+LUX,31.52
+MEX,48.24
+MNE,44.84
+NLD,31.89
+NZL,32.81
+NOR,37.97
+PER,44.31
+POL,51.28
+PRT,45.16
+QAT,49.34
+KOR,53.18
+ROU,50.43
+RUS,40.84
+SRB,46.92
+SGP,35.92
+SVK,48.28
+SVN,42.6
+ESP,43.3
+SWE,29.33
+CHE,24.93
+THA,71.56
+TUN,52.52
+TUR,50.55
+ARE,40.23
+USA,28.31
+URY,47.82
+VNM,24.35
+ACE,39.38
+HIA,37.3446
+AME,46.395
+ASA,29.52
+ECM,39.83
+HIM,36.32
+LCM,47.82
+NAN,28.31
+ECE,31.6486
+HWW,33.777
+LCE,37.1701
+NAE,28.552
+# Series: PISAMANG,
+"# Name: PISA self-confidence, not good at math, male",
+# Definition: The percentage of students who agree or strongly agree with the statement “I feel helpless when doing a mathematics problem”.,
+# Source: Organisation for Economic Co-operation and Development (OECD),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

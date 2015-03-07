@@ -1,0 +1,56 @@
+ISO,2010
+DZA,64.2
+ARM,87
+AUS,98.3
+AZE,73.1
+BLR,86
+CHL,80.8
+CHN,15.4
+COL,83.4
+CYP,91.1
+EGY,79.8
+EST,70.5
+DEU,83.4
+GHA,83
+IRQ,80.6
+JPN,91.3
+JOR,63.5
+KAZ,84.4
+KWT,68.5
+KGZ,96.5
+LBN,69.9
+LBY,75.1
+MYS,77.5
+MEX,85.1
+MAR,38.3
+NLD,90.1
+NZL,94.5
+NGA,92
+PAK,80.5
+PER,94.1
+PHL,93.3
+POL,88.9
+QAT,77.5
+KOR,85.7
+ROU,94.8
+RUS,78.8
+RWA,93.9
+SGP,89.1
+SVN,86.9
+ESP,85.1
+SWE,92.5
+TTO,86
+TUN,55.5
+TUR,96.7
+UKR,91.6
+USA,79.1
+URY,92.2
+UZB,84.1
+YEM,64.5
+ZWE,71.9
+# Series: ECPMAUVN,
+"# Name: Vote (usually or always) at national elections, % male",
+# Definition: Percentage of males that usually or always vote at national elections.,
+# Source: World Values Survey,
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

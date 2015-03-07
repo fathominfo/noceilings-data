@@ -1,0 +1,36 @@
+ISO,2010
+BEN,16
+BFA,85
+CMR,1
+CAF,28
+TCD,46
+CIV,44
+DJI,95
+EGY,96
+ERI,93
+ETH,81
+GMB,73
+GHA,6
+GIN,99
+GNB,49
+IRQ,10
+KEN,35
+LBR,73
+MLI,90
+MRT,72
+NER,3
+NGA,32
+SEN,29
+SLE,96
+SOM,99
+SDN,90
+TZA,6
+TGO,1
+UGA,22
+YEM,24
+# Series: PFGMTFTN,
+# Name: FGMC prevalence among girls and women by current age 35-39 (%),
+# Definition: Most types of FGM/C involve the cutting and removal of portions of the female genitalia. % of women and girls who had FGM/C by current age 35-39.,
+"# Source: UNICEF, Female Genital Mutilation/Cutting: A statistical overview and exploration of the dynamics of change, July 2013",
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

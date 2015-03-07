@@ -1,0 +1,52 @@
+ISO,2003,2012
+AUS,7.05,4.94
+AUT,5.6,4.93
+BEL,8.16,6.26
+BRA,2.15,1.68
+CAN,8.26,6.66
+CZE,5.55,4.5
+DNK,5.71,3.81
+FIN,9.92,6.94
+FRA,6.9,4.34
+DEU,4.12,5.73
+GRC,2,2.67
+HUN,3.75,3.36
+ISL,7.65,4.43
+IDN,1.82,2.33
+IRL,5.27,4.78
+ITA,3.71,5.37
+JPN,9.78,9.2
+LVA,4.65,5.79
+LUX,4.31,4.33
+MEX,1.5,3.86
+NLD,9.97,8
+NZL,7.49,4.12
+NOR,3.44,4.51
+POL,5.01,8.61
+PRT,7.54,6.77
+KOR,10.29,12.44
+RUS,5.53,4.24
+SVK,3.15,3.38
+ESP,7.54,5.25
+SWE,6.73,3.62
+CHE,7.09,7.57
+THA,8.5,7.34
+TUN,1.45,2.19
+TUR,2.01,7.62
+USA,2.89,4.04
+URY,3.87,1.89
+ACE,5.63792,5.28375
+HIA,6.17862,5.4869
+ASA,5.575,5.35
+ECM,5.53,4.78
+HIM,5.71,4.93
+NAN,2.89,4.04
+ECE,3.64926,3.8807
+HWW,5.03147,4.99887
+NAE,3.41699,4.30198
+# Series: PIFERESI,,
+"# Name: PISA resilient students, female",,
+"# Definition: A student is classified as resilient if he or she is in the bottom quarter of the PISA index of economic, social and cultural status (ESCS) in the country/economy of assessment and performs in the top quarter of students from all countries/economies, after accounting for socio-economic status.",,
+# Source: Organisation for Economic Co-operation and Development (OECD),,
+# Data from the No Ceilings project: http://noceilings.org,,
+"# For more about the data, please visit http://noceilings.org/data",,

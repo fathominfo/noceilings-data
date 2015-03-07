@@ -1,0 +1,21 @@
+ISO,2012
+AUS,302
+AUT,288
+CAN,303
+CZE,310
+DNK,300
+EST,295
+FIN,300
+DEU,300
+IRL,293
+NLD,314
+NOR,305
+KOR,268
+SWE,317
+USA,303
+# Series: PCMPFEHT,
+"# Name: PIAAC mean problem-solving scores, female, highest income decile",
+"# Definition: Survey of adult skills, % who achieved lowest poroficiency, by household wealth percentiles",
+# Source: Organisation for Economic Co-operation and Development (OECD),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

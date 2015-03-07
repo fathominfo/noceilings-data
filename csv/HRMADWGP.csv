@@ -1,0 +1,38 @@
+ISO,1995,2000,2001,2002,2003,2004,2005,2006,2007,2008,2010
+ALB,,,,,,,,,,,0.8
+ARM,,,,,,,,,,0.9,
+AUT,,,,,,,,,,2.1,
+BEL,,,,,,,2.5,,,,
+BGR,,,,2.6,,,,,,,2.3
+CAN,2.5,,,,,,2.5,,,,2.7
+DNK,,,2.4,,,,,,,,
+EST,,2.6,,,,,,,,,2.5
+FIN,,2.3,,,,,,,,,2.4
+FRA,,2.4,,,,,,,,,2.3
+DEU,,,2.5,,,,,,,,
+HUN,,2.7,,,,,,,,,2.6
+ITA,,,,1.6,,,,,,1.7,
+KAZ,,,,,4.2,,,3.6,,,
+KGZ,,3.3,,,,,2.3,,,,
+LVA,,,,,1.8,,,,,,
+LTU,,,,,2.2,,,,,,
+MKD,,,,,,2,,,,,
+NLD,2.1,2.1,,,,,2.1,2.4,,,
+NOR,,2.3,,,,,,,,,
+POL,,,,,,2.4,,,,,
+PRT,,1.2,,,,,,,,,
+ESP,,,,,1.6,,,,,,
+SWE,,2.5,,,,,,,,,
+CHE,2.3,2.4,,,,2.5,,,2.7,,
+TUR,,,,,,,,0.9,,,
+GBR,,,,,,,1.9,,,,
+USA,,,,,2.1,2.1,2.1,2,2.2,2,
+ASA,,,,,2.1,2.1,2.3,2,2.2,2,
+NAN,,,,,2.1,2.1,2.1,2,2.2,2,
+NAE,,,,,1.89391,1.89376,2.13933,1.80327,1.98344,1.80267,
+# Series: HRMADWGP,,,,,,,,,,,
+"# Name: Average hours spent on unpaid domestic work , Male",,,,,,,,,,,
+"# Definition: Time spent in domestic work, male refers to average hours per day that men ages 20-74 spent on housework, child and adult care, gardening and pet care, construction and repairs, shopping and services, and household management",,,,,,,,,,,
+# Source: World Bank World DataBank Gender Statistics; Compiled from UNECE,,,,,,,,,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,,,,,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,,,,,,,,

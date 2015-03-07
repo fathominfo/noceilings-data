@@ -1,0 +1,63 @@
+ISO,2004,2005,2006,2008,2009,2010
+ARG,,,,,30.4,
+ARM,,,,,30.3,
+BOL,,,71.3,,,
+BRA,,,,,29.5,
+CHN,,,,,,25.1
+COL,,,,,,29.2
+CRI,,,,,40.5,
+CIV,,,,7.8,,
+DOM,,,,,62.4,
+ECU,,,,,50.6,
+EGY,,,,,39.6,
+SLV,,,,,43.5,
+HND,,,,,52.5,
+IND,,,,,99.3,
+IDN,,,,,60.9,
+KGZ,,,,,70.4,
+LBR,,,,,,60
+MKD,,,,,,5.3
+MUS,,,,,6.7,
+MEX,,,,,22.4,
+NAM,,,,61.9,,
+NIC,,,,50,,
+PAK,,,,,96.7,
+PAN,,,,,11.8,
+PRY,,,,,100,
+PER,,,,,65,
+PHL,,,,49,,
+MDA,,,,,41.1,
+SRB,,,,,,0
+ZAF,,,,,,15.1
+LKA,,,,,74.7,
+TZA,,64.5,,,,
+THA,,,,,,45.7
+TUR,,,,,23.1,
+UGA,,,,,,100
+UKR,,,,,15.4,
+URY,,,,,23.4,
+VEN,,,,,19.3,
+VNM,,,,,81.8,
+ZMB,,,,66.7,,
+ZWE,68.2,,,,,
+AAE,,,,,,35.4
+AME,,,,,42.4077,
+LMA,,,,,61.3167,
+ASE,,,,,90.2333,
+UMA,,,,,,20.0667
+EAM,,,,,,25.1
+LCM,,,,,40.5,
+LMM,,,,,52.5,
+SAM,,,,,96.7,
+UMM,,,,,,15.1
+EAE,,,,,,16.764
+LCE,,,,,25.5222,
+LMW,,,,,67.6845,
+SAE,,,,,85.6712,
+UMW,,,,,,16.4765
+# Series: CSIEFEIE,,,,,,
+"# Name: Informal employment in construction, Female",,,,,,
+"# Definition: Informal employment in construction, female (Share of informal employment by kind)",,,,,,
+# Source: Informal Economy 2012 Country Data,,,,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,,,

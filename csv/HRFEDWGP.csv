@@ -1,0 +1,38 @@
+ISO,1995,2000,2001,2002,2003,2004,2005,2006,2007,2008,2010
+ALB,,,,,,,,,,,5.8
+ARM,,,,,,,,,,4.9,
+AUT,,,,,,,,,,4.1,
+BEL,,,,,,,4.2,,,,
+BGR,,,,5,,,,,,,4.7
+CAN,4.4,,,,,,4.1,,,,4.2
+DNK,,,3.5,,,,,,,,
+EST,,4.9,,,,,,,,,4
+FIN,,3.9,,,,,,,,,3.7
+FRA,,4.5,,,,,,,,,3.9
+DEU,,,4.4,,,,,,,,
+HUN,,5,,,,,,,,,4.8
+ITA,,,,5.3,,,,,,5.1,
+KAZ,,,,,6.8,,,6.3,,,
+KGZ,,6.7,,,,,5.7,,,,
+LVA,,,,,3.9,,,,,,
+LTU,,,,,4.5,,,,,,
+MKD,,,,,,5.7,,,,,
+NLD,4.1,4.1,,,,,4,4.1,,,
+NOR,,3.6,,,,,,,,,
+POL,,,,,,4.8,,,,,
+PRT,,5.1,,,,,,,,,
+ESP,,,,,4.9,,,,,,
+SWE,,3.7,,,,,,,,,
+CHE,4.9,4.7,,,,4.7,,,4.7,,
+TUR,,,,,,,,5.3,,,
+GBR,,,,,,,3.5,,,,
+USA,,,,,3.8,3.8,3.7,3.7,3.7,3.5,
+ASA,,,,,3.8,3.8,3.9,3.7,3.7,3.5,
+NAN,,,,,3.8,3.8,3.7,3.7,3.7,3.5,
+NAE,,,,,3.42708,3.42681,3.73933,3.33604,3.33578,3.15468,
+# Series: HRFEDWGP,,,,,,,,,,,
+"# Name: Average hours spent on unpaid domestic work , Female",,,,,,,,,,,
+"# Definition: Time spent in domestic work, female refers to average hours per day that women ages 20-74 spent on housework, child and adult care, gardening and pet care, construction and repairs, shopping and services, and household management.",,,,,,,,,,,
+# Source: World Bank World DataBank Gender Statistics; Compiled from UNECE,,,,,,,,,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,,,,,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,,,,,,,,

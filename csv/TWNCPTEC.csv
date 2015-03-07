@@ -1,0 +1,60 @@
+ISO,2010
+ARG,18
+AUS,33
+BGD,21
+BRA,8
+BGR,195
+CMR,2
+CAN,88
+CHL,71
+CHN,7
+CRI,6
+COD,4
+DOM,4
+ECU,7
+EGY,6
+EST,10
+ETH,61
+FJI,2
+FIN,18
+FRA,7
+DEU,631
+GHA,7
+HUN,18
+IND,16
+ISR,88
+JAM,16
+JPN,69
+KEN,8
+LTU,57
+MDG,7
+MWI,19
+MUS,56
+MEX,496
+MAR,8
+MOZ,6
+NAM,61
+NZL,5
+NGA,5
+PAK,23
+PER,55
+POL,13
+KOR,46
+ROU,18
+RUS,16
+ZAF,1.251
+ESP,698
+SWE,12
+UGA,2
+UKR,48
+GBR,36
+USA,30
+VEN,8
+ZMB,7
+ZWE,10
+# Series: TWNCPTEC,
+"# Name: Total women in news company positions, technical",
+"# Definition: Total women in news company positions, technical",
+# Source: International Women’s Media Foundation (IWMF),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

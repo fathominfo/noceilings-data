@@ -1,0 +1,46 @@
+ISO,2012,2013,2014
+AUS,6.37,6.38,6.28
+AUT,3.98,3.58,3.91
+BEL,2.29,2.12,2.28
+BRA,8.78,8.78,7.58
+CAN,1.46,1.46,1.5
+CHL,3.83,9.78,9.29
+CZE,3.81,3.29,2.81
+DNK,0.74,0.83,0.91
+EST,2.11,2.72,2.07
+FIN,1.88,1.88,1.57
+FRA,5.14,5.41,5.3
+DEU,2.27,2.39,2.5
+GRC,3.88,3.85,3.62
+HUN,1.64,1.49,1.49
+ISL,0,7.05,7.1
+IRL,1.28,1.47,1.57
+ISR,8.58,7.91,8.93
+ITA,2.16,2.03,1.84
+JPN,0,20.43,13.4
+LUX,1.79,1.18,1.63
+MEX,17.96,17.58,18.07
+NLD,0.16,0.15,0.14
+NZL,6.79,6.25,6.68
+NOR,1.04,1.13,1.52
+POL,2.68,2.57,2.79
+PRT,3.01,5.33,6.14
+KOR,12.9,17.06,17.18
+RUS,0.09,0.08,0.07
+SVK,2.53,2.99,3.2
+SVN,3.48,2.95,3.51
+ESP,3.65,3.53,3.31
+SWE,0.52,0.6,0.54
+CHE,0,2.86,3.52
+TUR,33.88,34.6,32.61
+GBR,5.81,5.83,6.38
+USA,6.31,6.49,6.57
+HIA,3.14188,4.42438,4.31437
+HIM,2.29,2.95,3.2
+HWW,3.58098,5.96393,10.6157
+# Series: BLIXEWHF,,,
+"# Name: BLI Employees working very long hours, female",,,
+# Definition: This indicator measures the proportion of dependent employed whose usual hours of work per week are 50 hours or more.,,,
+# Source: OECD Better Life Index,,,
+# Data from the No Ceilings project: http://noceilings.org,,,
+"# For more about the data, please visit http://noceilings.org/data",,,

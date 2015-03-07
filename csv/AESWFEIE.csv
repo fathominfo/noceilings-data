@@ -1,0 +1,68 @@
+ISO,2004,2005,2006,2008,2009,2010
+ARG,,,,,14.2,
+ARM,,,,,53.8,
+BOL,,,44.9,,,
+BRA,,,,,30.7,
+CHN,,,,,,24.5
+COL,,,,,,14.5
+CRI,,,,,10.7,
+CIV,,,,45.8,,
+DOM,,,,,4.8,
+ECU,,,,,31.1,
+EGY,,,,,30.6,
+SLV,,,,,9.7,
+ETH,25.2,,,,,
+HND,,,,,8.3,
+IND,,,,,35.9,
+IDN,,,,,38.2,
+KGZ,,,,,40.6,
+LSO,,,,41.7,,
+LBR,,,,,,50.2
+MKD,,,,,,39.3
+MDG,,49.7,,,,
+MLI,29.2,,,,,
+MUS,,,,,31.5,
+MEX,,,,,9.8,
+NAM,,,,21.9,,
+NIC,,,,8.3,,
+PAK,,,,,36.1,
+PAN,,,,,16.8,
+PRY,,,,,28.4,
+PER,,,,,39.4,
+PHL,,,,25.1,,
+MDA,,,,,43.7,
+RUS,,,,,,35.6
+SRB,,,,,,40.1
+ZAF,,,,,,33.3
+LKA,,,,,39,
+TZA,,53.3,,,,
+THA,,,,,,43.7
+TUR,,,,,46.5,
+UGA,,,,,,55.5
+UKR,,,,,47.3,
+URY,,,,,15.9,
+VEN,,,,,8.3,
+VNM,,,,,51.2,
+ZMB,,,,51.9,,
+ZWE,53.4,,,,,
+AAE,,,,,,34.1
+AME,,,,,17.5462,
+LMA,,,,,35.1833,
+ASE,,,,,37,
+UMA,,,,,,32.5667
+EAM,,,,,,24.5
+LCM,,,,,14.2,
+LMM,,,,,36.1,
+SAM,,,,,36.1,
+UMM,,,,,,33.3
+EAE,,,,,,16.3356
+LCE,,,,,17.1759,
+LMW,,,,,28.4376,
+SAE,,,,,31.2552,
+UMW,,,,,,16.3374
+# Series: AESWFEIE,,,,,,
+"# Name: Agricultural employment, Female",,,,,,
+"# Definition: Agricultural employment, female (Share of women in employment by type)",,,,,,
+# Source: Informal Economy 2012 Country Data,,,,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,,,

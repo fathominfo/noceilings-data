@@ -1,0 +1,54 @@
+ISO,2010
+DZA,37.5
+ARM,13.3
+AUS,7.7
+AZE,37
+BLR,14.9
+CHL,20
+CHN,42.2
+COL,17.9
+CYP,8.2
+EGY,14
+EST,18
+DEU,16.4
+GHA,24.4
+IRQ,17.8
+JPN,8.4
+JOR,38
+KAZ,19.9
+KWT,33.8
+KGZ,4.4
+LBN,23.6
+LBY,18.9
+MYS,22.6
+MEX,13.7
+MAR,50.8
+NLD,13.2
+NZL,11.5
+NGA,9.7
+PAK,18.2
+PER,4.3
+PHL,5.7
+POL,10.6
+KOR,15.8
+ROU,3.4
+RUS,21.6
+RWA,7.9
+SVN,11.4
+ESP,14
+SWE,11.8
+TTO,20
+TUN,68.1
+TUR,3.4
+UKR,8
+USA,24.5
+URY,9.1
+UZB,7.2
+YEM,23.5
+ZWE,32.6
+# Series: ETPMNTNV,
+"# Name: Never vote at local elections, % male",
+# Definition: Percentage of males that never vote at local elections.,
+# Source: World Values Survey,
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

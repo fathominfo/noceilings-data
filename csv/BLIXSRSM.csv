@@ -1,0 +1,46 @@
+ISO,2012,2013,2014
+AUS,514,514,510
+AUT,484,484,499
+BEL,509,509,507
+BRA,399,399,400
+CAN,524,524,519
+CHL,441,441,438
+CZE,483,483,496
+DNK,499,499,497
+EST,508,508,519
+FIN,532,532,516
+FRA,493,493,493
+DEU,507,507,510
+GRC,466,466,456
+HUN,491,491,482
+ISL,494,494,475
+IRL,491,491,514
+ISR,452,452,469
+ITA,481,481,487
+JPN,523,523,541
+LUX,480,480,491
+MEX,419,419,417
+NLD,518,518,517
+NZL,517,517,507
+NOR,493,493,488
+POL,492,492,514
+PRT,485,485,483
+KOR,536,536,542
+RUS,461,461,473
+SVK,480,480,468
+SVN,488,488,489
+ESP,484,484,489
+SWE,487,487,472
+CHE,515,515,516
+TUR,447,447,454
+GBR,501,501,503
+USA,498,498,488
+HIA,494.875,494.875,496.438
+HIM,493,493,496
+HWW,469.044,468.735,940.437
+# Series: BLIXSRSM,,,
+"# Name: BLI Student skills, male",,,
+"# Definition: Students’ average score in reading, mathematics and science as assessed by the OECD’s Programme for International Student Assessment (PISA)",,,
+# Source: OECD Better Life Index,,,
+# Data from the No Ceilings project: http://noceilings.org,,,
+"# For more about the data, please visit http://noceilings.org/data",,,

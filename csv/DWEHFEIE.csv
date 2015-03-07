@@ -1,0 +1,53 @@
+ISO,2004,2005,2006,2008,2009,2010
+ARG,,,,,86.1,
+ARM,,,,,100,
+BOL,,,95,,,
+BRA,,,,,73.7,
+CHN,,,,,,88.9
+COL,,,,,,87.2
+CRI,,,,,83,
+DOM,,,,,100,
+ECU,,,,,86.2,
+SLV,,,,,98.4,
+HND,,,,,86,
+IND,,,,,100,
+IDN,,,,,96.2,
+LSO,,,,91.5,,
+LBR,,,,,,75
+MLI,60.1,,,,,
+MEX,,,,,96,
+NAM,,,,79,,
+NIC,,,,94.9,,
+PAK,,,,,100,
+PAN,,,,,82.6,
+PRY,,,,,99.8,
+PER,,,,,87,
+PHL,,,,98,,
+MDA,,,,,100,
+ZAF,,,,,,99.4
+TZA,,98.1,,,,
+UGA,,,,,,50.8
+URY,,,,,59.6,
+VEN,,,,,66.6,
+ZMB,,,,86.2,,
+AAE,,,,,,88.9
+AME,,,,,85,
+LMA,,,,,97.55,
+ASE,,,,,100,
+UMA,,,,,,91.8333
+EAM,,,,,,88.9
+LCM,,,,,86.1,
+LMM,,,,,99.8,
+SAM,,,,,100,
+UMM,,,,,,88.9
+EAE,,,,,,54.4415
+LCE,,,,,65.1863,
+LMW,,,,,67.07,
+SAE,,,,,85.5681,
+UMW,,,,,,54.4436
+# Series: DWEHFEIE,,,,,,
+"# Name: Domestic workers employed by households, Female",,,,,,
+"# Definition: Domestic workers employed by households (Informal non-agricultural employment by status in employment, female)",,,,,,
+# Source: Informal Economy 2012 Country Data,,,,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,,,

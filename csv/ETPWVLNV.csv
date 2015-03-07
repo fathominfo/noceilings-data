@@ -1,0 +1,54 @@
+ISO,2010
+DZA,43.6
+ARM,10.6
+AUS,6
+AZE,48.1
+BLR,10.6
+CHL,21.2
+CHN,44.6
+COL,18.6
+CYP,6.3
+EGY,25.2
+EST,12.7
+DEU,18.5
+GHA,28.7
+IRQ,26.3
+JPN,9.8
+JOR,35.2
+KAZ,20.4
+KWT,39.6
+KGZ,4.6
+LBN,30.7
+LBY,32.8
+MYS,23.7
+MEX,13.4
+MAR,57
+NLD,14.3
+NZL,8.5
+NGA,14.4
+PAK,36.9
+PER,3.2
+PHL,6.5
+POL,9
+KOR,17.4
+ROU,4.5
+RUS,14.9
+RWA,10.6
+SVN,9
+ESP,13.5
+SWE,9.2
+TTO,14.1
+TUN,74.6
+TUR,2.9
+UKR,6.3
+USA,24.4
+URY,9.2
+UZB,8.3
+YEM,24.6
+ZWE,32.3
+# Series: ETPWVLNV,
+"# Name: Never vote at local elections, % female",
+# Definition: Percentage of females that never vote at local elections.,
+# Source: World Values Survey,
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

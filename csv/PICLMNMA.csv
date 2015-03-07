@@ -1,0 +1,28 @@
+ISO,2012
+AUS,274.47
+AUT,271.53
+CAN,274.63
+CYP,267.99
+CZE,275.68
+DNK,270.58
+EST,275.06
+FIN,285.96
+FRA,262.05
+DEU,272.35
+IRL,267.71
+ITA,250.36
+JPN,297.78
+NLD,287.06
+NOR,280.34
+POL,263.66
+KOR,275.72
+SVK,273.47
+ESP,254.11
+SWE,280.88
+USA,270.16
+# Series: PICLMNMA,
+"# Name: PIAAC mean scores, literacy, male",
+"# Definition: Survey of adult skills, score out of 500",
+# Source: Organisation for Economic Co-operation and Development (OECD),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

@@ -1,0 +1,56 @@
+ISO,2010
+DZA,59.3
+ARM,88.7
+AUS,96.9
+AZE,63.2
+BLR,89.6
+CHL,80.1
+CHN,11.8
+COL,82.8
+CYP,93.3
+EGY,69.7
+EST,76.4
+DEU,83.3
+GHA,79.8
+IRQ,69.4
+JPN,89.3
+JOR,68.3
+KAZ,86.1
+KWT,61.4
+KGZ,95.9
+LBN,66.7
+LBY,63.6
+MYS,74.4
+MEX,86.6
+MAR,29.2
+NLD,91.2
+NZL,95.6
+NGA,88.2
+PAK,61.2
+PER,94.5
+PHL,92.6
+POL,91.2
+QAT,68.7
+KOR,84.2
+ROU,93.1
+RUS,85.6
+RWA,92.6
+SGP,88.6
+SVN,90.5
+ESP,86.1
+SWE,94.5
+TTO,92.2
+TUN,47.6
+TUR,98
+UKR,93.9
+USA,80.5
+URY,93.1
+UZB,81.7
+YEM,63.9
+ZWE,72.5
+# Series: ETCWAUVN,
+"# Name: Vote (usually or always) at national elections, % female",
+# Definition: Percentage of females that usually or always vote at national elections.,
+# Source: World Values Survey,
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

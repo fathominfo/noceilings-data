@@ -1,0 +1,46 @@
+ISO,2012,2013,2014
+AUS,7.2,7.2,7.2
+AUT,7.2,7.3,7.4
+BEL,7,6.8,7.1
+BRA,6.7,6.6,7.2
+CAN,7.3,7.3,7.6
+CHL,6.7,6.7,6.7
+CZE,6.3,6.4,6.7
+DNK,7.6,7.5,7.6
+EST,5.4,5.2,5.4
+FIN,7.1,7.2,7.4
+FRA,7.1,6.7,6.6
+DEU,6.7,6.7,6.9
+GRC,5.3,5,4.6
+HUN,5.1,4.8,5.1
+ISL,6.8,7.5,7.4
+IRL,6.9,6.7,6.7
+ISR,7.4,7.2,7.2
+ITA,6.1,6,6.2
+JPN,5.8,5.8,5.8
+LUX,7.1,7,7.2
+MEX,6.9,7.3,7.5
+NLD,7.5,7.4,7.4
+NZL,7.1,7.2,7.3
+NOR,7.5,7.6,7.6
+POL,5.7,5.7,5.6
+PRT,5.3,4.9,5.1
+KOR,6.3,5.8,5.8
+RUS,5.3,5.6,5.6
+SVK,5.9,6,6.1
+SVN,6.2,6.2,6.1
+ESP,6.6,6.2,6
+SWE,7.3,7.5,7.1
+CHE,7.5,7.7,7.7
+TUR,5.1,5.2,4.7
+GBR,6.9,6.8,6.9
+USA,6.8,6.9,6.9
+HIA,6.65312,6.61562,6.65312
+HIM,6.8,6.7,6.9
+HWW,6.09077,6.07708,12.1899
+# Series: BLIXLSRM,,,
+"# Name: BLI Life satisfaction, male",,,
+"# Definition: The indicator considers people's evaluation of their life as a whole. It is a weighted-sum of different response categories based on people's rates of their current life relative to the best and worst possible lives for them on a scale from 0 to 10, using the Cantril Ladder (known also as the ""Self-Anchoring Striving Scale"").",,,
+# Source: OECD Better Life Index,,,
+# Data from the No Ceilings project: http://noceilings.org,,,
+"# For more about the data, please visit http://noceilings.org/data",,,

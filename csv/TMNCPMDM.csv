@@ -1,0 +1,57 @@
+ISO,2010
+ARG,45
+AUS,39
+BGD,100
+BRA,178
+BGR,40
+CMR,17
+CAN,169
+CHL,53
+CHN,311
+CRI,15
+DNK,108
+DOM,11
+ECU,114
+EGY,103
+EST,13
+ETH,74
+FJI,33
+FIN,133
+FRA,110
+DEU,308
+GHA,18
+HUN,53
+IND,344
+ISR,66
+JAM,11
+JPN,2141
+JOR,83
+KEN,34
+LBN,27
+LTU,25
+MEX,46
+MAR,13
+MOZ,21
+NZL,23
+NGA,40
+NOR,47
+PAK,135
+PER,112
+PHL,48
+POL,250
+KOR,352
+ROU,29
+RUS,30
+ESP,317
+SWE,118
+UGA,21
+UKR,31
+GBR,151
+USA,121
+VEN,322
+# Series: TMNCPMDM,
+"# Name: Total men in news company positions, middle management",
+"# Definition: Total men in news company positions, middle management",
+# Source: International Women’s Media Foundation (IWMF),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

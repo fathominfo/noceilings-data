@@ -1,0 +1,64 @@
+ISO,2010
+ARG,78
+AUS,100
+BGD,290
+BRA,132
+BGR,450
+CMR,20
+CAN,583
+CHL,512
+CHN,48
+CRI,46
+COD,277
+DOM,109
+ECU,72
+EGY,51
+EST,10
+ETH,126
+FJI,19
+FIN,45
+FRA,27
+DEU,1090
+GHA,43
+HUN,221
+IND,211
+ISR,380
+JAM,29
+JPN,1208
+JOR,100
+KEN,18
+LBN,143
+LTU,213
+MDG,18
+MWI,26
+MUS,74
+MEX,436
+MAR,13
+MOZ,9
+NAM,52
+NZL,42
+NGA,9
+NOR,18
+PAK,576
+PER,231
+PHL,39
+POL,343
+KOR,174
+ROU,103
+RUS,13
+ZAF,1019
+ESP,1903
+SWE,30
+UGA,3
+UKR,102
+GBR,234
+USA,77
+VEN,150
+ZMB,5
+ZWE,12
+# Series: TMNCPTEC,
+"# Name: Total men in news company positions, technical",
+"# Definition: Total men in news company positions, technical",
+# Source: International Women’s Media Foundation (IWMF),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

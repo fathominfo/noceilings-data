@@ -1,0 +1,62 @@
+ISO,2010
+ARG,2
+AUS,8
+BGD,15
+BRA,6
+BGR,11
+CMR,1
+CAN,5
+CHL,3
+CHN,5
+CRI,3
+COD,5
+DOM,5
+ECU,5
+EGY,4
+EST,1
+ETH,4
+FJI,5
+FIN,30
+FRA,1
+DEU,19
+GHA,7
+HUN,2
+IND,21
+ISR,10
+JAM,6
+JPN,4
+JOR,7
+KEN,5
+LBN,4
+LTU,4
+MDG,2
+MWI,16
+MUS,7
+MEX,5
+MAR,1
+MOZ,1
+NAM,8
+NZL,9
+NGA,3
+NOR,3
+PAK,9
+PER,12
+PHL,4
+POL,13
+RUS,15
+ZAF,25
+ESP,3
+SWE,28
+UGA,15
+UKR,9
+GBR,42
+USA,6
+VEN,5
+ZMB,6
+ZWE,6
+# Series: TWNCPGOV,
+"# Name: Total women in news company positions, governance",
+"# Definition: Total women in news company positions, governance",
+# Source: International Women’s Media Foundation (IWMF),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

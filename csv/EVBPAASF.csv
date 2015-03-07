@@ -1,0 +1,35 @@
+ISO,2012
+AUT,11
+BEL,14
+BGR,17
+HRV,11
+CYP,10
+CZE,16
+DNK,14
+EST,14
+FIN,14
+FRA,11
+DEU,11
+GRC,9
+HUN,13
+IRL,10
+ITA,13
+LVA,15
+LTU,15
+LUX,13
+MLT,11
+NLD,11
+POL,12
+PRT,8
+ROU,12
+SVK,15
+SVN,9
+ESP,9
+SWE,10
+GBR,14
+# Series: EVBPAASF,
+"# Name: Victims of any form of economic violence by a partner since the age of 15, % women",
+"# Definition: This includes the partner preventing her from making independent decisions on family finances, or forbidding her to work outside the home.",
+"# Source: FRA gender-based violence against women survey dataset, 2012",
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

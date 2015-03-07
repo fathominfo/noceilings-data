@@ -1,0 +1,25 @@
+ISO,2012
+AUS,266
+AUT,268
+CAN,270
+CZE,265
+DNK,275
+EST,266
+FIN,274
+FRA,238
+DEU,261
+IRL,243
+JPN,276
+NLD,277
+NOR,262
+POL,256
+KOR,248
+SVK,273
+SWE,274
+USA,247
+# Series: PCMNFEBT,
+"# Name: PIAAC mean numeracy scores, female, lowest income decile",
+"# Definition: Survey of adult skills, % who achieved lowest poroficiency, by household wealth percentiles",
+# Source: Organisation for Economic Co-operation and Development (OECD),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

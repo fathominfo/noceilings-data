@@ -1,0 +1,63 @@
+ISO,2004,2005,2006,2008,2009,2010
+ARG,,,,,50.1,
+ARM,,,,,23.5,
+BOL,,,83,,,
+BRA,,,,,42.3,
+CHN,,,,,,23.1
+COL,,,,,,73.4
+CRI,,,,,52.6,
+CIV,,,,67.6,,
+DOM,,,,,45.2,
+ECU,,,,,68.6,
+EGY,,,,,78.9,
+SLV,,,,,75.5,
+HND,,,,,81.8,
+IND,,,,,85,
+IDN,,,,,79.2,
+KGZ,,,,,77.7,
+LBR,,,,,,50
+MKD,,,,,,18
+MUS,,,,,21.3,
+MEX,,,,,62,
+NAM,,,,41.3,,
+NIC,,,,79.2,,
+PAK,,,,,48.3,
+PAN,,,,,59.5,
+PRY,,,,,56,
+PER,,,,,86,
+PHL,,,,88.8,,
+MDA,,,,,21.3,
+SRB,,,,,,3.6
+ZAF,,,,,,38.4
+LKA,,,,,77.4,
+TZA,,75,,,,
+THA,,,,,,55.3
+TUR,,,,,36.9,
+UGA,,,,,,68.3
+UKR,,,,,7.6,
+URY,,,,,31.5,
+VEN,,,,,62.2,
+VNM,,,,,75.2,
+ZMB,,,,69.1,,
+ZWE,23.7,,,,,
+AAE,,,,,,39.2
+AME,,,,,59.4846,
+LMA,,,,,59.1417,
+ASE,,,,,70.2333,
+UMA,,,,,,35.3
+EAM,,,,,,23.1
+LCM,,,,,59.5,
+LMM,,,,,75.2,
+SAM,,,,,77.4,
+UMM,,,,,,23.1
+EAE,,,,,,15.8319
+LCE,,,,,42.7673,
+LMW,,,,,59.9699,
+SAE,,,,,69.755,
+UMW,,,,,,17.0309
+# Series: TRIEMAIE,,,,,,
+"# Name: Informal employment in transportation, Male",,,,,,
+"# Definition: Informal employment in transportation, male (Share of informal employment by kind)",,,,,,
+# Source: Informal Economy 2012 Country Data,,,,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,,,

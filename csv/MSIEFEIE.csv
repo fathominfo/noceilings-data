@@ -1,0 +1,63 @@
+ISO,2004,2005,2006,2008,2009,2010
+ARG,,,,,57.6,
+ARM,,,,,35,
+BOL,,,92.6,,,
+BRA,,,,,48.6,
+CHN,,,,,,20
+COL,,,,,,67
+CRI,,,,,45.9,
+CIV,,,,78.5,,
+DOM,,,,,31.7,
+ECU,,,,,72,
+EGY,,,,,48.5,
+SLV,,,,,62.5,
+HND,,,,,76.8,
+IND,,,,,94.1,
+IDN,,,,,50.4,
+KGZ,,,,,68.3,
+LBR,,,,,,76.2
+MKD,,,,,,9.4
+MUS,,,,,10.9,
+MEX,,,,,53.7,
+NAM,,,,35.7,,
+NIC,,,,62.6,,
+PAK,,,,,76.7,
+PAN,,,,,74.1,
+PRY,,,,,82.8,
+PER,,,,,79,
+PHL,,,,62.4,,
+MDA,,,,,7.3,
+SRB,,,,,,3.8
+ZAF,,,,,,27.9
+LKA,,,,,63.3,
+TZA,,83.1,,,,
+THA,,,,,,22.2
+TUR,,,,,43.3,
+UGA,,,,,,95.3
+UKR,,,,,3.5,
+URY,,,,,46.7,
+VEN,,,,,50.1,
+VNM,,,,,57.2,
+ZMB,,,,84.9,,
+ZWE,72.6,,,,,
+AAE,,,,,,21.1
+AME,,,,,60.1154,
+LMA,,,,,54.8417,
+ASE,,,,,78.0333,
+UMA,,,,,,25.05
+EAM,,,,,,20
+LCM,,,,,57.6,
+LMM,,,,,57.2,
+SAM,,,,,76.7,
+UMM,,,,,,20
+EAE,,,,,,12.9245
+LCE,,,,,42.9338,
+LMW,,,,,61.7382,
+SAE,,,,,79.4586,
+UMW,,,,,,13.9678
+# Series: MSIEFEIE,,,,,,
+"# Name: Informal employment in manufacturing, Female",,,,,,
+"# Definition: Informal employment in manufacturing, female (Share of informal employment by kind)",,,,,,
+# Source: Informal Economy 2012 Country Data,,,,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,,,

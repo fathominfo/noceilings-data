@@ -1,0 +1,25 @@
+ISO,2012
+AUS,285
+AUT,267
+CAN,280
+CZE,268
+DNK,278
+EST,271
+FIN,288
+FRA,252
+DEU,264
+IRL,260
+JPN,289
+NLD,287
+NOR,268
+POL,266
+KOR,258
+SVK,269
+SWE,281
+USA,270
+# Series: PCMLFEBT,
+"# Name: PIAAC mean literacy scores, female, lowest income decile",
+"# Definition: Survey of adult skills, % who achieved lowest poroficiency, by household wealth percentiles",
+# Source: Organisation for Economic Co-operation and Development (OECD),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

@@ -1,0 +1,61 @@
+ISO,2010
+ARG,218
+AUS,492
+BGD,62
+BRA,729
+BGR,180
+CMR,8
+CAN,1289
+CHL,500
+CHN,593
+CRI,30
+COD,85
+DOM,85
+ECU,172
+EGY,72
+EST,31
+ETH,68
+FJI,26
+FIN,37
+FRA,112
+DEU,731
+GHA,25
+HUN,85
+IND,447
+ISR,342
+JAM,71
+JPN,440
+JOR,25
+KEN,18
+LBN,21
+LTU,97
+MDG,28
+MWI,44
+MUS,38
+MEX,474
+MAR,37
+MOZ,6
+NZL,36
+NGA,57
+NOR,101
+PAK,38
+PER,64
+PHL,71
+POL,785
+KOR,75
+RUS,51
+ZAF,118
+ESP,1
+SWE,262
+UKR,89
+GBR,814
+USA,69
+VEN,40
+ZMB,20
+ZWE,56
+# Series: TWNCPADM,
+"# Name: Total women in news company positions, administration",
+"# Definition: Total women in news company positions, administration",
+# Source: International Women’s Media Foundation (IWMF),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

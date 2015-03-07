@@ -1,0 +1,63 @@
+ISO,2004,2005,2006,2008,2009,2010
+ARG,,,,,65.8,
+ARM,,,,,37.7,
+BOL,,,90.1,,,
+BRA,,,,,47.2,
+CHN,,,,,,57.1
+COL,,,,,,74.1
+CRI,,,,,59.9,
+CIV,,,,94.8,,
+DOM,,,,,66.3,
+ECU,,,,,75.1,
+EGY,,,,,84.9,
+SLV,,,,,87.6,
+HND,,,,,87,
+IND,,,,,97.9,
+IDN,,,,,92.4,
+KGZ,,,,,94.1,
+LBR,,,,,,81.4
+MKD,,,,,,8.2
+MUS,,,,,18.3,
+MEX,,,,,73.7,
+NAM,,,,66,,
+NIC,,,,84,,
+PAK,,,,,96,
+PAN,,,,,56.7,
+PRY,,,,,82.2,
+PER,,,,,90.3,
+PHL,,,,89.7,,
+MDA,,,,,27.1,
+SRB,,,,,,6.6
+ZAF,,,,,,44.5
+LKA,,,,,84.5,
+TZA,,84.5,,,,
+THA,,,,,,71.2
+TUR,,,,,40.9,
+UGA,,,,,,89.4
+UKR,,,,,17.1,
+URY,,,,,52.4,
+VEN,,,,,67.8,
+VNM,,,,,79,
+ZMB,,,,96.4,,
+ZWE,55.6,,,,,
+AAE,,,,,,64.15
+AME,,,,,70.1538,
+LMA,,,,,72.7833,
+ASE,,,,,92.8,
+UMA,,,,,,43.6167
+EAM,,,,,,57.1
+LCM,,,,,67.8,
+LMM,,,,,84.5,
+SAM,,,,,96,
+UMM,,,,,,44.5
+EAE,,,,,,37.1378
+LCE,,,,,49.3737,
+LMW,,,,,71.779,
+SAE,,,,,84.6788,
+UMW,,,,,,36.9492
+# Series: TSIEFEIE,,,,,,
+"# Name: Informal employment in trade, Female",,,,,,
+"# Definition: Informal employment in trade, female (Share of informal employment by kind)",,,,,,
+# Source: Informal Economy 2012 Country Data,,,,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,,,

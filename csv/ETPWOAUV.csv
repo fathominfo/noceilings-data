@@ -1,0 +1,54 @@
+ISO,2010
+DZA,56.4
+ARM,89.2
+AUS,94
+AZE,51.9
+BLR,87.3
+CHL,78.6
+CHN,49
+COL,81.3
+CYP,93.7
+EGY,74.8
+EST,86.5
+DEU,81.5
+GHA,71.3
+IRQ,69.5
+JPN,90.2
+JOR,64.8
+KAZ,79.6
+KWT,55.5
+KGZ,95.3
+LBN,65.5
+LBY,64.6
+MYS,76.3
+MEX,86.4
+MAR,33.1
+NLD,85.7
+NZL,91.5
+NGA,85.6
+PAK,61
+PER,95.3
+PHL,93.5
+POL,90.8
+KOR,82.6
+ROU,94.3
+RUS,82.8
+RWA,89.4
+SVN,90.7
+ESP,85.1
+SWE,90.1
+TTO,85
+TUN,23.5
+TUR,97.1
+UKR,93.7
+USA,75.6
+URY,87.7
+UZB,91.7
+YEM,58.9
+ZWE,67.7
+# Series: ETPWOAUV,
+"# Name: Vote (usually or always) at local elections, % female",
+# Definition: Percentage of females that usually or always vote at local elections.,
+# Source: World Values Survey,
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

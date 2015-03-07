@@ -1,0 +1,28 @@
+ISO,2012
+AUS,9.5
+AUT,9.74
+CAN,8.87
+CYP,5.58
+CZE,9.1
+DNK,12.45
+EST,8.92
+FIN,15.31
+FRA,6.15
+DEU,9.69
+IRL,4.83
+ITA,2.61
+JPN,13.61
+NLD,11.59
+NOR,12.33
+POL,6.77
+KOR,4.93
+SVK,11.48
+ESP,2.19
+SWE,14.25
+USA,5.38
+# Series: PICNHIFE,
+"# Name: PIAAC highest scores (Level 4 or 5), numeracy, female",
+"# Definition: Survey of adult skills, % who achieved highest poroficiency",
+# Source: Organisation for Economic Co-operation and Development (OECD),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

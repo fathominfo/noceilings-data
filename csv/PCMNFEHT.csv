@@ -1,0 +1,23 @@
+ISO,2012
+AUS,309
+AUT,285
+CAN,296
+CZE,307
+DNK,306
+EST,301
+FIN,315
+FRA,297
+DEU,303
+IRL,293
+JPN,303
+NLD,308
+NOR,311
+KOR,265
+SWE,315
+USA,286
+# Series: PCMNFEHT,
+"# Name: PIAAC mean numeracy scores, female, highest income decile",
+"# Definition: Survey of adult skills, % who achieved lowest poroficiency, by household wealth percentiles",
+# Source: Organisation for Economic Co-operation and Development (OECD),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

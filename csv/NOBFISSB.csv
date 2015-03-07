@@ -1,0 +1,50 @@
+ISO,2010,2011,2012,2013
+AFG,69,137,,
+AGO,36,150,185,245
+BGD,196,269,249,313
+BEN,20,195,169,101
+BFA,29,208,50,69
+BDI,205,425,36,10
+KHM,10,8,9,2
+CMR,249,178,25,30
+CAF,,64,36,35
+TCD,,331,,
+COG,,20,14,12
+CIV,255,237,114,85
+COD,1149,1554,1129,1149
+DJI,18,12,17,12
+ERI,160,150,,
+ETH,1737,1769,1912,1621
+FJI,,,0,0
+GMB,30,,,
+GHA,149,170,,
+GIN,256,532,370,243
+KEN,1014,666,766,842
+LAO,9,6,,
+LBR,160,220,10,18
+MDG,74,164,116,244
+MWI,201,388,339,443
+MLI,223,60,,
+MOZ,291,434,334,230
+NPL,73,146,59,56
+NER,659,396,136,142
+NGA,2484,2818,937,1065
+PAK,479,345,545,724
+RWA,235,250,128,59
+SEN,167,150,50,232
+SLE,204,231,203,204
+SOM,194,44,91,59
+SDN,473,357,282,291
+TZA,1080,1110,639,733
+TLS,6,6,,
+TGO,101,32,20,28
+UGA,1377,1329,1601,2019
+YEM,3,6,20,70
+ZMB,217,354,160,163
+ZWE,,19,,
+# Series: NOBFISSB,,,,
+# Name: Number of obstetric fistula surgeries,,,,
+# Definition: Number of obstetric fistula surgeries,,,,
+"# Source: Global Fistula Map, DirectRelief, Fistula Foundation, UNFPA",,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,

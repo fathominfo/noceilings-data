@@ -1,0 +1,40 @@
+ISO,2010
+AUS,14
+AUT,19.4
+BEL,8.9
+CAN,18.8
+CZE,18.1
+DNK,12.1
+FIN,19.7
+FRA,13.1
+DEU,21.6
+GRC,9.6
+HUN,6.4
+ISL,13.5
+IRL,10.4
+ISR,20.3
+ITA,11.8
+JPN,28.7
+NLD,16.7
+NZL,6.8
+NOR,8.1
+POL,10
+PRT,15.6
+KOR,38.9
+ESP,11.8
+SWE,14.9
+CHE,19.5
+GBR,18.4
+USA,18.8
+HIA,16.1346
+ASA,18.8
+HIM,14.9
+NAN,18.8
+HWW,15.5992
+NAE,18.8
+# Series: GWGPOECD,
+# Name: Gender wage gap,
+# Definition: The gender wage gap is unadjusted and calculated as the difference between median earnings of men and women relative to median earnings of men.,
+"# Source: OECD, Closing the Gender Gap: Act Now",
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

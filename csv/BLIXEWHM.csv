@@ -1,0 +1,46 @@
+ISO,2012,2013,2014
+AUS,20.69,20.95,21.2
+AUT,13.61,13.47,12.91
+BEL,6.42,6.56,6.37
+BRA,15.47,15.47,13.3
+CAN,6.37,6.37,6.42
+CHL,9.36,19.98,18.94
+CZE,12.89,11.19,10.8
+DNK,3.08,3.08,3.17
+EST,5.2,5.62,5.28
+FIN,5.55,5.96,5.93
+FRA,12.05,12.44,12.08
+DEU,7.75,8.18,8.43
+GRC,6.2,6.28,7.25
+HUN,4.98,4.64,4.27
+ISL,0,18.94,19.24
+IRL,6.43,6.67,7.03
+ISR,29.09,26.91,27.89
+ITA,6.55,5.7,5.22
+JPN,0,38.84,29.61
+LUX,5.22,3.75,4.43
+MEX,35.44,35.12,35.21
+NLD,1.16,1.12,1.01
+NZL,19.62,19.53,19.23
+NOR,4.23,4.46,4.59
+POL,11.48,11.32,11.71
+PRT,7.6,11.64,12.53
+KOR,0,35.02,34.19
+RUS,0.24,0.25,0.28
+SVK,8.67,9.34,9.34
+SVN,8.44,7.93,7.73
+ESP,9.31,8.85,8.4
+SWE,2.03,1.85,1.74
+CHE,0,8.68,10.67
+TUR,49.26,49.81,46.92
+GBR,17.48,18.12,17.98
+USA,15.25,15.5,16.03
+HIA,8.18656,11.7031,11.4884
+HIM,6.43,8.68,8.43
+HWW,8.29022,13.892,26.0829
+# Series: BLIXEWHM,,,
+"# Name: BLI Employees working very long hours, male",,,
+# Definition: This indicator measures the proportion of dependent employed whose usual hours of work per week are 50 hours or more.,,,
+# Source: OECD Better Life Index,,,
+# Data from the No Ceilings project: http://noceilings.org,,,
+"# For more about the data, please visit http://noceilings.org/data",,,

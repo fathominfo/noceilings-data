@@ -1,0 +1,51 @@
+ISO,2010
+AUS,311
+AUT,269
+BEL,245
+CAN,254
+CHN,234
+DNK,243
+EST,288
+FIN,232
+FRA,258
+DEU,269
+HUN,268
+IND,352
+IRL,296
+ITA,326
+JPN,269
+MEX,373
+NLD,273
+NZL,264
+NOR,225
+POL,296
+PRT,328
+KOR,227
+SVN,286
+ZAF,257
+ESP,258
+SWE,249
+TUR,377
+GBR,273
+USA,248
+AAE,261
+HIA,269
+ASA,251
+ASE,352
+UMA,301.8
+EAM,264
+HIM,269
+NAN,248
+SAM,352
+UMM,268
+EAE,167.872
+HWW,207.071
+NAE,248.596
+SAE,262.884
+UMW,169.388
+# Series: MUWFOECD,
+"# Name: Average minutes of unpaid work per day, female",
+"# Definition: The average minutes spent per day on all of the following activities: routine housework, shopping (grocery, financial services, etc.), care for household members, care for non household members, volunteering, travel related to household activities, and ""other"" unpaid activities.",
+"# Source: OECD, Closing the Gender Gap: Act Now",
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

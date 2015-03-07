@@ -1,0 +1,77 @@
+ISO,2003,2006,2007,2011
+DZA,,,0.75,
+ARG,,0.99,,
+ARM,,,,0.95
+AUS,,,,1
+AUT,,,,1
+AZE,,,,0.96
+BHR,,,,0.96
+CHL,,,,0.99
+COL,,,0.83,
+HRV,,,,1
+CUB,,0.99,,
+CYP,0.99,,,
+CZE,,,,1
+DNK,,,,1
+DOM,,0.94,,
+SLV,,,0.88,
+FIN,,,,1
+GEO,,,,0.99
+DEU,,,,1
+HUN,,,,1
+IRN,,,,0.98
+IRL,,,,1
+ITA,,,,1
+JPN,,,,1
+KAZ,,,,1
+KWT,,,,0.73
+LVA,,,1,
+LTU,,,,1
+MLT,,,,0.93
+MNG,,,0.95,
+MAR,,,,0.5
+NLD,,,,1
+NZL,,,,1
+NOR,,,,1
+OMN,,,,0.81
+PAN,,0.98,,
+PRY,,0.98,,
+PER,,0.98,,
+PHL,0.64,,,
+POL,,,,1
+PRT,,,,1
+QAT,,,,0.85
+KOR,,,,1
+MDA,1,,,
+ROU,,,,0.98
+RUS,,,,1
+SAU,,,,0.97
+SRB,,,,1
+SGP,,,,1
+SVK,,,,1
+SVN,,,,1
+ESP,,,,1
+SWE,,,,1
+THA,,,,0.97
+TUN,,,,0.83
+TUR,,,,0.99
+UKR,,,0.99,
+ARE,,,,0.91
+USA,,,,1
+URY,,0.99,,
+YEM,,,,0.32
+ACE,,,,0.995
+HIA,,,,0.973437
+ASA,,,,1
+ECM,,,,1
+HIM,,,,1
+NAN,,,,1
+ECE,,,,0.677178
+HWW,,,,0.829563
+NAE,,,,0.900357
+# Series: WDSCQHFE,,,,
+"# Name: Achieving basics in science, female, highest income quintile",,,,
+# Definition: Percentage of children taking part in an assessment who achieved an international minimum learning standard in science by hosehold wealth index. (Primary level),,,,
+# Source: World Inequality Database on Education (WIDE),,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,

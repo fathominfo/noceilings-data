@@ -1,0 +1,44 @@
+ISO,1999,2000,2001,2002,2003,2004,2005
+ARM,,36.4,,,,,22.7
+BGD,,,,,,39.3,
+BEN,,,80.3,,,,
+BOL,,,,,57.3,,
+BFA,,,,,89.2,,
+KHM,,46.3,,,,,
+CMR,,,,,,67.2,
+TCD,,,,,,56.1,
+COL,,79,,,,,82
+DOM,,,,84.3,,,
+EGY,,35.6,,,,,25
+ERI,,,,56.2,,,
+ETH,,62.4,,,,,39
+GHA,,,,,69.1,,
+GIN,,,,,,,70.2
+HTI,,81.7,,,,,
+IDN,,,,,64.6,,
+KEN,,,,,53.3,,
+LSO,,,,,,52,
+MDG,,,,,,32.4,
+MWI,,38.1,,,,37.5,
+MLI,,,86.6,,,,
+MAR,,,,,,70.6,
+MOZ,,,,,44.4,,
+NAM,,57.4,,,,,
+NPL,,,38.8,,,,
+NIC,,,84.4,,,,
+NGA,,,,,71,,
+PER,,66.4,,,,,
+PHL,,,,,60.4,,
+RWA,,34.6,,,,,31.2
+SEN,,,,,,,88.3
+TZA,,,,,,,47.4
+TKM,,18.7,,,,,
+UGA,,,50.7,,,,
+ZMB,,,,40.7,,,
+ZWE,50.1,,,,,,
+# Series: ECMSFDHS,,,,,,,
+# Name: Married women's control over earnings - self only,,,,,,,
+"# Definition: Percent distribution of women employed in the 12 months who received cash earning for work by person who decides how earnings are used, according to current marital status and the proportion of household expenditures met by earnings.",,,,,,,
+# Source: DHS Household Surveys,,,,,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,,,,

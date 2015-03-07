@@ -1,0 +1,28 @@
+ISO,2012
+AUS,6.29
+AUT,3.6
+CAN,6.83
+CYP,3.71
+CZE,2.09
+DNK,3.45
+EST,2.14
+FIN,3.18
+FRA,10.15
+DEU,5.7
+IRL,7.58
+ITA,9
+JPN,1.26
+NLD,4.01
+NOR,4.54
+POL,5.06
+KOR,5.06
+SVK,3.64
+ESP,10.85
+SWE,5.32
+USA,10.41
+# Series: PICNLWFE,
+"# Name: PIAAC lowest scores (below Level 1), numeracy, female",
+"# Definition: Survey of adult skills, % who achieved lowest poroficiency",
+# Source: Organisation for Economic Co-operation and Development (OECD),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

@@ -1,0 +1,56 @@
+ISO,2010
+DZA,35.8
+ARM,12.7
+AUS,1.7
+AZE,26.9
+BLR,11.7
+CHL,19
+CHN,78.4
+COL,16.4
+CYP,8.9
+EGY,20.2
+EST,28.4
+DEU,16.4
+GHA,17
+IRQ,18
+JPN,8.7
+JOR,36.5
+KAZ,15.6
+KWT,29.3
+KGZ,3.5
+LBN,24.3
+LBY,21.8
+MYS,22.5
+MEX,14.7
+MAR,53.9
+NLD,9.9
+NZL,5.5
+NGA,8
+PAK,19.2
+PER,5.1
+PHL,6.5
+POL,10.6
+QAT,22.5
+KOR,14.3
+ROU,4.6
+RUS,19.6
+RWA,6.1
+SGP,10.9
+SVN,12.2
+ESP,13.5
+SWE,7.5
+TTO,13.3
+TUN,42.1
+TUR,3.3
+UKR,8.4
+USA,20.9
+URY,6.5
+UZB,15.9
+YEM,24.2
+ZWE,28.1
+# Series: EPMNVNAT,
+"# Name: Never vote at national elections, % male",
+# Definition: Percentage of males that never vote at national elections.,
+# Source: World Values Survey,
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

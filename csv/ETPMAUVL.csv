@@ -1,0 +1,54 @@
+ISO,2010
+DZA,62.5
+ARM,86.7
+AUS,92.3
+AZE,63
+BLR,82.8
+CHL,79.8
+CHN,52.3
+COL,82
+CYP,91.8
+EGY,86
+EST,81
+DEU,83.4
+GHA,75.6
+IRQ,80.8
+JPN,91.6
+JOR,62
+KAZ,80.1
+KWT,64.1
+KGZ,95.6
+LBN,70.6
+LBY,77.7
+MYS,77.4
+MEX,86.1
+MAR,42
+NLD,86.8
+NZL,88.5
+NGA,90.3
+PAK,81.6
+PER,94.8
+PHL,94.2
+POL,88.7
+KOR,84.2
+ROU,96.1
+RUS,76.5
+RWA,92.1
+SVN,87.9
+ESP,84.6
+SWE,87.5
+TTO,79.2
+TUN,29.7
+TUR,96.6
+UKR,92
+USA,75.5
+URY,89.2
+UZB,92.8
+YEM,62.3
+ZWE,67.4
+# Series: ETPMAUVL,
+"# Name: Vote (usually or always) at local elections, % male",
+# Definition: Percentage of males that usually or always vote at local elections.,
+# Source: World Values Survey,
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

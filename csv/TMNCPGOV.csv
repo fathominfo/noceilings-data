@@ -1,0 +1,63 @@
+ISO,2010
+ARG,11
+AUS,32
+BGD,41
+BRA,52
+BGR,17
+CMR,5
+CAN,14
+CHL,32
+CHN,14
+CRI,5
+COD,23
+DOM,24
+ECU,19
+EGY,28
+EST,5
+ETH,17
+FJI,9
+FIN,51
+FRA,5
+DEU,61
+GHA,18
+HUN,13
+IND,79
+ISR,22
+JAM,17
+JPN,21
+JOR,52
+KEN,19
+LBN,23
+LTU,9
+MDG,29
+MWI,43
+MUS,10
+MEX,12
+MAR,5
+MOZ,8
+NAM,15
+NZL,13
+NGA,15
+NOR,5
+PAK,19
+PER,41
+PHL,35
+POL,31
+KOR,16
+RUS,21
+ZAF,40
+ESP,14
+SWE,54
+UGA,16
+UKR,16
+GBR,73
+USA,11
+VEN,23
+ZMB,14
+ZWE,10
+# Series: TMNCPGOV,
+"# Name: Total men in news company positions, governance",
+"# Definition: Total men in news company positions, governance",
+# Source: International Women’s Media Foundation (IWMF),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

@@ -1,0 +1,65 @@
+ISO,2010
+ARG,35
+AUS,14
+BGD,50
+BRA,82
+BGR,22
+CMR,7
+CAN,512
+CHL,38
+CHN,58
+CRI,23
+COD,121
+DNK,34
+DOM,33
+ECU,29
+EGY,32
+EST,11
+ETH,38
+FJI,18
+FIN,44
+FRA,25
+DEU,241
+GHA,19
+HUN,19
+IND,138
+ISR,65
+JAM,18
+JPN,238
+JOR,44
+KEN,91
+LBN,25
+LTU,27
+MDG,26
+MWI,54
+MUS,28
+MEX,18
+MAR,17
+MOZ,15
+NAM,23
+NZL,16
+NGA,44
+NOR,26
+PAK,81
+PER,47
+PHL,20
+POL,111
+KOR,181
+ROU,29
+RUS,24
+ZAF,162
+ESP,57
+SWE,38
+UGA,21
+UKR,29
+GBR,179
+USA,62
+VEN,21
+ZMB,23
+ZWE,26
+# Series: TMNCSEMG,
+"# Name: Total men in news company positions, senior management",
+"# Definition: Total men in news company positions, senior management",
+# Source: International Women’s Media Foundation (IWMF),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

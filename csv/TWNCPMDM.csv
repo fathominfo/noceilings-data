@@ -1,0 +1,57 @@
+ISO,2010
+ARG,16
+AUS,16
+BGD,25
+BRA,102
+BGR,112
+CMR,5
+CAN,169
+CHL,15
+CHN,152
+CRI,9
+DNK,60
+DOM,14
+ECU,55
+EGY,101
+EST,10
+ETH,30
+FJI,27
+FIN,104
+FRA,74
+DEU,147
+GHA,9
+HUN,15
+IND,77
+ISR,35
+JAM,19
+JPN,130
+JOR,8
+KEN,7
+LBN,15
+LTU,20
+MEX,30
+MAR,15
+MOZ,7
+NZL,8
+NGA,26
+NOR,24
+PAK,27
+PER,36
+PHL,48
+POL,195
+KOR,23
+ROU,43
+RUS,38
+ESP,117
+SWE,113
+UGA,14
+UKR,35
+GBR,82
+USA,156
+VEN,187
+# Series: TWNCPMDM,
+"# Name: Total women in news company positions, middle management",
+"# Definition: Total women in news company positions, middle management",
+# Source: International Women’s Media Foundation (IWMF),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

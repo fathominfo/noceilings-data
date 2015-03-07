@@ -1,0 +1,24 @@
+ISO,2012
+AUS,7.4
+AUT,13.99
+CAN,9.77
+CZE,13.73
+DNK,6.11
+EST,11.6
+FIN,7.62
+DEU,13.28
+IRL,12.88
+JPN,23.81
+NLD,7
+NOR,6.47
+POL,23.57
+KOR,26.03
+SVK,23.93
+SWE,5.99
+USA,8.23
+# Series: PICPLWFE,
+"# Name: PIAAC lowest scores (No experience or failed), problem-solving in tech-rich env., female",
+"# Definition: Survey of adult skills, % who achieved lowest poroficiency",
+# Source: Organisation for Economic Co-operation and Development (OECD),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

@@ -1,0 +1,35 @@
+ISO,2012
+AUT,38
+BEL,44
+BGR,39
+HRV,42
+CYP,39
+CZE,47
+DNK,60
+EST,50
+FIN,53
+FRA,47
+DEU,50
+GRC,33
+HUN,49
+IRL,31
+ITA,38
+LVA,60
+LTU,51
+LUX,49
+MLT,37
+NLD,50
+POL,37
+PRT,36
+ROU,39
+SVK,47
+SVN,34
+ESP,33
+SWE,51
+GBR,46
+# Series: AFPYVBAF,
+"# Name: Victims of any form of pyschological violence by a partner since the age of 15, % women",
+# Definition: This includes behaviour such as belittling or humiliating the respondent in public or private; forbidding her to leave the house or locking her up;making her watch pornographic material against her wishes; scaring or intimidating her on purpose; and threatening her with violence or threatening to hurt someone else the respondent cares about.,
+"# Source: FRA gender-based violence against women survey dataset, 2012",
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

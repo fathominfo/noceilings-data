@@ -1,0 +1,28 @@
+ISO,2012
+AUS,274.47
+AUT,281.66
+CAN,272.75
+CYP,268.46
+CZE,280.2
+DNK,283.4
+EST,276.24
+FIN,287.29
+FRA,259.72
+DEU,280.28
+IRL,261.68
+ITA,252.5
+JPN,294.29
+NLD,288.68
+NOR,285.55
+POL,260.73
+KOR,268.56
+SVK,277
+ESP,252.04
+SWE,285.73
+USA,260.05
+# Series: PICNMNMA,
+"# Name: PIAAC mean scores, numeracy, male",
+"# Definition: Survey of adult skills, score out of 500",
+# Source: Organisation for Economic Co-operation and Development (OECD),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

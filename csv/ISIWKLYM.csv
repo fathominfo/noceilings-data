@@ -1,0 +1,55 @@
+ISO,2010
+DZA,12
+ARM,9
+AUS,21.1
+AZE,11.9
+BLR,14.8
+CHL,15
+CHN,11.7
+COL,13.7
+CYP,15.4
+ECU,11.7
+EGY,6
+EST,9.3
+DEU,16.3
+GHA,8.7
+IRQ,9.5
+JPN,14.5
+JOR,14.3
+KAZ,13.5
+KWT,15.2
+KGZ,12.9
+LBN,12.1
+LBY,9.4
+MYS,14.1
+MEX,10.8
+NLD,14.7
+NZL,16.5
+NGA,9
+PAK,7.8
+PER,17.2
+PHL,9.3
+POL,12.8
+QAT,12.6
+KOR,11
+ROU,7.6
+RUS,11.5
+RWA,13.3
+SGP,12.4
+SVN,9.6
+SWE,10.9
+TTO,6.2
+TUN,10.1
+TUR,12.9
+UKR,11.9
+USA,19.9
+URY,12.7
+UZB,6.9
+YEM,8.4
+ZWE,12.4
+# Series: ISIWKLYM,
+"# Name: Use internet as a source of information, weekly, male",
+"# Definition: Use internet as a source of information, weekly, male",
+# Source: World Values Survey,
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

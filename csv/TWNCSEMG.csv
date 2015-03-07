@@ -1,0 +1,64 @@
+ISO,2010
+ARG,7
+AUS,4
+BGD,2
+BRA,33
+BGR,18
+CAN,628
+CHL,3
+CHN,9
+CRI,13
+COD,20
+DNK,20
+DOM,6
+ECU,11
+EGY,24
+EST,3
+ETH,11
+FJI,10
+FIN,23
+FRA,14
+DEU,44
+GHA,13
+HUN,8
+IND,42
+ISR,25
+JAM,9
+JPN,12
+JOR,4
+KEN,43
+LBN,10
+LTU,19
+MDG,5
+MWI,19
+MUS,6
+MEX,9
+MAR,11
+MOZ,8
+NAM,13
+NZL,12
+NGA,26
+NOR,12
+PAK,13
+PER,21
+PHL,11
+POL,80
+KOR,11
+ROU,17
+RUS,23
+ZAF,628
+ESP,14
+SWE,26
+UGA,17
+UKR,20
+GBR,75
+USA,44
+VEN,15
+ZMB,8
+ZWE,3
+# Series: TWNCSEMG,
+"# Name: Total women in news company positions, senior management",
+"# Definition: Total women in news company positions, senior management",
+# Source: International Women’s Media Foundation (IWMF),
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",

@@ -1,0 +1,45 @@
+ISO,2009,2010,2011,2012
+AUT,,,3,2.9
+BEL,,,4.7,5.8
+BGR,,,4.9,4.7
+KHM,0.2,0.2,0.2,
+HRV,,,2.4,2.5
+CYP,,,1.2,1.3
+CZE,,,2.8,3.1
+DNK,,,1.6,1.1
+EST,,,6.5,5.8
+FIN,,,3.4,2.3
+FRA,,,6.2,6.1
+DEU,,,3.2,3
+GRC,,,2.4,2.7
+HUN,,,5,4.1
+ISL,,,7.5,8.4
+IRL,,,5.3,5.5
+ITA,,,2.4,2.3
+LVA,,,8.9,8.2
+LTU,,,6.9,6.8
+LUX,,,2.4,1.2
+MKD,,,4.1,3.1
+MLT,,,5.8,6.8
+NLD,,,4.7,4.3
+NOR,,,4.3,4.5
+POL,,,5.2,5.3
+PRT,,,4.3,4.7
+ROU,,,1.5,1.5
+SGP,,,,13
+SVK,,,3.7,3.3
+SVN,,,6.9,6.7
+ESP,,,3.3,3.3
+SWE,,,3.9,4.3
+CHE,,,5.7,5.9
+TUR,,,,2.5
+GBR,,,7.6,7.7
+ACE,,,,4.21562
+ECM,,,,4.1
+ECE,,,,2.71799
+# Series: SEOFE15A,,,,
+"# Name: Share employed by occupation, 1A - Managers, Female",,,,
+# Definition: Share of women that are Managers.,,,,
+# Source: International Labour Organization (ILO) Key Indicators of the Labour Market (KILM),,,,
+# Data from the No Ceilings project: http://noceilings.org,,,,
+"# For more about the data, please visit http://noceilings.org/data",,,,

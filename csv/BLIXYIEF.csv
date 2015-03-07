@@ -1,0 +1,46 @@
+ISO,2012,2013,2014
+AUS,18.6,18.7,18.9
+AUT,16.8,17.1,17.2
+BEL,19.2,19.3,19.3
+BRA,16.7,16.5,16.6
+CAN,17.4,17.4,17.5
+CHL,15.6,16.2,16.5
+CZE,18.1,18.3,18.5
+DNK,19,19.3,19.7
+EST,18.4,18.1,18.2
+FIN,20,20.1,20.2
+FRA,16.8,16.7,16.8
+DEU,17.6,17.7,17.9
+GRC,18.3,18.6,18.7
+HUN,17.8,17.8,17.8
+ISL,19.9,20.4,20.3
+IRL,17.8,17.9,17.5
+ISR,15.9,16.2,16
+ITA,17.5,17.5,17.4
+JPN,,19.2,16.4
+LUX,14.8,15,14.2
+MEX,14.7,15,15.3
+NLD,17.6,17.8,18.7
+NZL,18.9,18.7,18.7
+NOR,18.3,18.4,18.4
+POL,18.5,19,19.2
+PRT,18.4,18.2,18
+KOR,16.3,16.8,16.7
+RUS,17.2,17.2,16.8
+SVK,16.9,17,16.9
+SVN,19.1,19.2,19.3
+ESP,17.4,17.7,17.9
+SWE,19.9,20.2,20.1
+CHE,16.9,17,17
+TUR,13.6,14.7,15.5
+GBR,16.7,17,17
+USA,17.6,17.8,17.8
+HIA,17.7871,17.9906,17.9281
+HIM,17.6,17.8,17.9
+HWW,14.7205,16.7832,32.9658
+# Series: BLIXYIEF,,,
+"# Name: BLI Years in education, female",,,
+# Definition: This indicator is the average duration of education in which a 5 year old child can expect to enrol during his/her lifetime until the age of 39. It is calculated under the current enrolment conditions by adding the net enrolment rates for each single year of age from the age of five onwards .,,,
+# Source: OECD Better Life Index,,,
+# Data from the No Ceilings project: http://noceilings.org,,,
+"# For more about the data, please visit http://noceilings.org/data",,,

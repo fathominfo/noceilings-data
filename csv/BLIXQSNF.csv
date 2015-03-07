@@ -1,0 +1,46 @@
+ISO,2012,2013,2014
+AUS,98,95,94
+AUT,95,96,95
+BEL,95,92,91
+BRA,89,87,89
+CAN,91,93,95
+CHL,86,85,85
+CZE,93,90,88
+DNK,97,93,97
+EST,90,87,88
+FIN,94,94,94
+FRA,93,93,92
+DEU,95,93,92
+GRC,88,80,68
+HUN,91,90,87
+ISL,98,97,96
+IRL,98,98,95
+ISR,92,90,90
+ITA,92,87,92
+JPN,96,90,90
+LUX,92,91,92
+MEX,83,76,74
+NLD,95,94,89
+NZL,95,94,97
+NOR,93,93,93
+POL,93,92,90
+PRT,84,84,85
+KOR,84,79,79
+RUS,87,88,83
+SVK,93,90,89
+SVN,94,91,92
+ESP,93,94,90
+SWE,93,94,92
+CHE,95,96,96
+TUR,68,74,80
+GBR,97,96,92
+USA,92,92,92
+HIA,92.8438,91.2812,90.4062
+HIM,93,92,92
+HWW,87.0854,85.7456,169.298
+# Series: BLIXQSNF,,,
+"# Name: BLI Quality of support network, female",,,
+"# Definition: A measure of perceived social network support. The indicator is based on the question: “If you were in trouble, do you have relatives or friends you can count on to help you whenever you need them, or not?” and it considers the respondents who respond positively.",,,
+# Source: OECD Better Life Index,,,
+# Data from the No Ceilings project: http://noceilings.org,,,
+"# For more about the data, please visit http://noceilings.org/data",,,

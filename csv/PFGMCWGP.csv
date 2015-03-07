@@ -1,0 +1,36 @@
+ISO,2010
+BEN,13
+BFA,76
+CMR,1
+CAF,24
+TCD,44
+CIV,36
+DJI,93
+EGY,91
+ERI,89
+ETH,74
+GMB,76
+GHA,4
+GIN,96
+GNB,50
+IRQ,8
+KEN,27
+LBR,66
+MLI,89
+MRT,69
+NER,2
+NGA,27
+SEN,26
+SLE,88
+SOM,98
+SDN,88
+TZA,15
+TGO,4
+UGA,1
+YEM,23
+# Series: PFGMCWGP,
+# Name: FGM/C prevalence among girls and women (%),
+# Definition: Most types of FGM/C involve the cutting and removal of portions of the female genitalia. % of women and girls affected.,
+"# Source: UNICEF, Female Genital Mutilation/Cutting: A statistical overview and exploration of the dynamics of change, July 2013",
+# Data from the No Ceilings project: http://noceilings.org,
+"# For more about the data, please visit http://noceilings.org/data",
