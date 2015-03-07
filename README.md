@@ -19,26 +19,26 @@ The data consists of ~900 topics (referred to as "indicators"), each of which co
 
 The list of indicators is available in several formats: [HTML](http://htmlpreview.github.com/?https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.html), [Markdown](https://github.com/fathominfo/noceilings-data/blob/master/indicators.md), [CSV](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.csv), and [JSON](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.json). 
 
-The data is collected from many sources. They can be seen in the *source* column. Data from noceilings.org that lists *WORLD Policy Analysis Center* as the source has additional restrictions on its use and therefore is not available as part of this repository. Visit [their site](http://worldpolicyforum.org/noceilings) for more information.
+The data is collected from many sources. They can be seen in the _source_ column. Data from noceilings.org that lists *WORLD Policy Analysis Center* as the source has additional restrictions on its use and therefore is not available as part of this repository. Visit [their site](http://worldpolicyforum.org/noceilings) for more information.
 
 
 ### Explanation of the indicators file
 
-The *primary*, *secondary*, and *tertiary* columns are used in [the map](http://noceilings.org/map) to organize the indicators into something that can be reasonably browsed. Instead of presenting users with ~900 entries topics, they're first grouped by *theme*. Next, there's a *primary* name (seen on the map as the title at the top). 
+The _primary_, _secondary_, and _tertiary_ columns are used in [the map](http://noceilings.org/map) to organize the indicators into something that can be reasonably browsed. Instead of presenting users with ~900 entries topics, they're first grouped by *theme*. Next, there's a *primary* name (seen on the map as the title at the top). 
 
 For instance, for the indicator named [Gross enrollment ratio in secondary school, female](http://noceilings.org/map/#GERSFEIN&2012):
- * the *primary* category is *Gross enrollment ratio*
- * the *secondary* is *secondary school* 
- * and the *tertiary* is *female*
+ * the _primary_ category is *Gross enrollment ratio*
+ * the _secondary_ is *secondary school* 
+ * and the _tertiary_ is *female*
 
-The *flavor* column is either *num* or a semicolon-separated list of variants for this entry. In the [indicators.json]() file, this is an anachronism from the process of how the data was integrated (from the CSV files). In future releases, this property won't be present (or will be set to null) for numeric data, and list the variants in an array (rather than requiring the split() call).
+The _flavor_ column is either *num* or a semicolon-separated list of variants for this entry. In the [indicators.json]() file, this is an anachronism from the process of how the data was integrated (from the CSV files). In future releases, this property won't be present (or will be set to `null`) for numeric data, and list the variants in an array (rather than requiring a `split()` call in your code).
 
-For instance, for the indicator titled "Can married women pursue a trade or profession in the same way as a man?" [see here](http://noceilings.org/map/#MWPTPWBL), the variants are listed in the *flavor* column as `Yes;No;Other`.
+For instance, for the indicator titled *Can married women pursue a trade or profession in the same way as a man?* ([seen here](http://noceilings.org/map/#MWPTPWBL)), the variants are listed in the _flavor_ column as `Yes;No;Other`.
 
 
 ### Individual data files
 
-This repository includes ~900 indicators, each in single files in both CSV and JSON format. Most data are between the years 1995-2014, but some data has 1990 entries, often for an indicator available in five year intervals: 1990, 1995, 2000... 
+This repository includes ~900 indicators, each in single files in both CSV and JSON format. Most data are between the years 1995-2014, but some data has 1990 entries, often for an indicator available in five year intervals (i.e. 1990, 1995, 2000...)
 
 
 ##### CSV format
