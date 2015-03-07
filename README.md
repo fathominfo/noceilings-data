@@ -1,9 +1,13 @@
 ## Data for No Ceilings: The Full Participation Project
 
-This is a repository of the data behind the [No Ceilings](http://noceilings.org) site. Please use http://noceilings.org/data when linking to this page. 
+This is a repository of the data behind the [No Ceilings](http://noceilings.org) site. 
+
+Please use http://noceilings.org/data when linking to this page. 
 
 > In 1995, at the UN Fourth World Conference on Women in Beijing, leaders from governments and civil society around the world came together and committed to ensuring that women and girls have the opportunity to participate fully in all aspects of life.
+
 > This year marks the 20th anniversary of that moment. The Bill & Melinda Gates Foundation and the No Ceilings initiative of the Bill, Hillary & Chelsea Clinton Foundation have joined forces to gather data and analyze the gains made for women and girls over the last two decades, as well as the gaps that remain.
+
 > This site and The Full Participation Report are the result—home to 850,000 data points, spanning more than 20 years, from over 190 countries. Through data visualizations and stories, we aim to present the gains and gaps in understandable, sharable ways—including by making the data open and easily available.
 
 You can read more about the No Ceilings project [here](http://noceilings.org/about). 
@@ -15,7 +19,7 @@ One of the most important aspects of this project is the compilation and collati
 
 The data consists of ~900 topics (referred to as "indicators"), each of which covers a focus area across a set of years and a list of countries.
 
-The list of indicators is available in several formats: [HTML](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.html), [MarkDown](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.md), [CSV](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.csv), and [JSON](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.json). 
+The list of indicators is available in several formats: [HTML](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.html), [Markdown](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.md), [CSV](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.csv), and [JSON](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/indicators.json). 
 
 The data is collected from an enormous number of sources. They can be seen in the *source* column on the indicators list.
 
