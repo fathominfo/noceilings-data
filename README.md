@@ -45,21 +45,21 @@ This repository includes ~900 indicators, each in single files in both CSV and J
 
 The columns of the CSV file are first the 3-digit ISO code (see below) for the country represented, followed by a column for each year in the data set. 
 
-CHeck out the [enrollment](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/csv/GERSFEIN.csv) and [profession](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/csv/MWPTPWBL.csv) data mentioned in the previous section for examples.
+Check out the [enrollment](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/csv/GERSFEIN.csv) and [profession](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/csv/MWPTPWBL.csv) data mentioned in the previous section for examples.
 
 Note that while the columns are in order from oldest to most recent, they may skip years if no data is available. Because the data is often quite sparse, columns are simply omitted.
 
 
-#### JSON format
+##### JSON format
 
 Each file contains a single JSON object. Inside, a hash maps each 3-digit country code (see below) to another hash mapping each year to the value for that year. Years with no data are not included.
 
-Again, the [enrollment](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/json/GERSFEIN.json) and [profession](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/json/MWPTPWBL.json) data files.
+Again, the [enrollment](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/json/GERSFEIN.json) and [profession](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/json/MWPTPWBL.json) data files. To save space (these are the same files used on the production server), the JSON files aren't beautified. 
 
 
 ### Countries and regions
 
-add the country list (iso 2, iso 3, name, full name)
+To map a country from a 3-letter ISO code to its name, use [this list](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/countries.csv) (CSV format). The first column is the 3-digit code, the second column is the full country name. For some longer country names that fit poorly in the interface, a third column is present with the name used on the site. 
 
 explanation of the regional groupings
 regional groupings file
