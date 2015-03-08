@@ -21,7 +21,7 @@ The list of indicators is available in several formats: [HTML](http://htmlprevie
 
 Each indicator has a **series** entry that is unique. This code is used throughout to link from the indicators metadata file to the individual JSON and CSV files described in the next section.
 
-The data is collected from many sources. They can be seen in the **source** column. Data from noceilings.org that lists *WORLD Policy Analysis Center* as the source has additional restrictions on its use and therefore is not available as part of this repository. Visit [their site](http://worldpolicyforum.org/noceilings) for more information.
+The data is collected from many sources. They can be seen in the **source** column. 
 
 
 ### Explanation of the indicators file
