@@ -8,5 +8,16 @@
   </head>
   <body>
     <div id="sketch"></div>
+    <textarea id="embed" style="width: 600px; height: 200px; font-family: courier, monospace;">
+    </textarea>
+    <script>
+    $.ajax({
+      dataType: 'text',
+      url: '/js/mm.js',
+      success: function (script_file) {
+        $('#embed').html('&lt;div id="sketch"&gt;&lt;/div&gt;' + '&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"&gt;&lt;/script&gt;' + '&lt;script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.0.0/p5.js"&gt;&lt;/script&gt;' + '&lt;script&gt;' + String(script_file) + '&lt;/script&gt;');
+      }
+    });
+    </script>
   </body>
 </html>

@@ -3,8 +3,8 @@ $(document).ready(function(){
   var iso2name = '';
   var keyHover = '';
 
-  var width = 900;
-  var height = 600;
+  var width = 600;
+  var height = 400;
 
   var pts = [];
   var keyLabels = [];
@@ -150,7 +150,7 @@ $(document).ready(function(){
 
       // draw the key
       for(var r = 0; r < regions.length; r++){
-        var newKeyLabel = new KeyLabel(regions[r],width-170, 50 + 20*r);
+        var newKeyLabel = new KeyLabel(regions[r],25, 50 + 20*r);
         keyLabels.push(newKeyLabel);
         newKeyLabel.draw();
       }
@@ -175,9 +175,9 @@ $(document).ready(function(){
       }
 
       // unit label for y axis
-      p.textAlign(p.LEFT);
+      p.textAlign(p.RIGHT);
       p.fill(200);
-      p.text('Deaths per 100,000 births', 20, height/2-15, 75, 30); 
+      p.text('Deaths per 100,000 births', 165, height/2 + 40, 75, 30); 
 
       // set up labels for individual graph points
       for (var r = 0; r < regions.length; r++){
@@ -251,7 +251,7 @@ $(document).ready(function(){
 
     // set up scale functions
     function getCX(yr){ 
-      return p.map(yr,1995,2010,0+150,width-200);
+      return p.map(yr,1995,2010,0+200,width-100);
     }
 
     function getCY(val){
