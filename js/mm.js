@@ -206,6 +206,7 @@ $(document).ready(function(){
           p.line(isoPts[pt-1].cx,isoPts[pt-1].cy,isoPts[pt].cx,isoPts[pt].cy); // draw connecting segments between point and previous point
         }
       }
+
       for(var pt = 0; pt < isoPts.length; pt++){
         isoPts[pt].draw();
       }
