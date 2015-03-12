@@ -14,7 +14,7 @@ $(document).ready(function(){
   var s = function( p ) {
 
     var iso2color = {
-      'none': p.color(0,0,0),
+      'none': p.color(0),
       'ECE': p.color(118, 91, 160),
       'EAE': p.color(200, 70, 70),
       'LCE': p.color(20, 185, 189),
@@ -22,7 +22,7 @@ $(document).ready(function(){
       'NAE': p.color(56, 130, 166),
       'SAE': p.color(237, 125, 32),
       'SSE': p.color(216, 100, 152),
-      'GLE': p.color(100,100,100)
+      'GLE': p.color(100)
     };
 
     function DataPoint(year, value, ISO){
@@ -32,7 +32,7 @@ $(document).ready(function(){
       this.name = iso2name[this.ISO];
       this.cx = getCX(this.year);
       this.cy = getCY(this.value);
-      this.color = iso2color[iso2region(this.ISO)];
+      this.color = iso2color[this.ISO];
       this.r = 6;
       this.hovered = false;
     }
@@ -52,7 +52,7 @@ $(document).ready(function(){
       if(keyHover == '' || keyHover == this.ISO){
         p.fill(this.color);
       } else {
-        p.fill(0,0,0,10);
+        p.fill(0,10);
       }
       p.ellipse(this.cx, this.cy, this.r, this.r);
     }
@@ -64,7 +64,7 @@ $(document).ready(function(){
       this.name = iso2name[this.ISO];
       this.cx = getCX(this.year);
       this.cy = getCY(this.value);
-      this.color = iso2color[iso2region(this.ISO)];
+      this.color = iso2color[this.ISO];
       this.r = 6;
       this.show = false;
     }
@@ -81,7 +81,7 @@ $(document).ready(function(){
           && p.mouseY <= (this.cy + this.r)
           && p.mouseY >= (this.cy - this.r)
       ){
-        p.fill(255,255,255,220);
+        p.fill(255,220);
         p.rectMode(p.CENTER);
         p.textAlign(p.CENTER);
         if(hovered.length <= 1){ // if mouse is only over one dot, draw its label
@@ -105,7 +105,7 @@ $(document).ready(function(){
       this.y = y;
       this.w = 150;
       this.h = 15;
-      this.color = iso2color[iso2region(this.ISO)];
+      this.color = iso2color[this.ISO];
     }
 
     KeyLabel.prototype.draw = function(){
@@ -167,10 +167,6 @@ $(document).ready(function(){
       return p.map(val,0,800,height-50,0+50);
     }
 
-    function iso2region(ISO){
-      return ISO;
-    }
-
     p.drawPointLabels = function(ISO){
       var d = data[ISO];
       var isoLabels = [];
@@ -185,7 +181,7 @@ $(document).ready(function(){
     }
 
     p.drawRegions = function() {
-      p.stroke(235,235,235);
+      p.stroke(235);
       p.strokeWeight(1);
       p.noFill();
       p.line(getCX(1995),height-50,getCX(2010) + 5,height-50);
@@ -199,7 +195,7 @@ $(document).ready(function(){
         }
       }
       p.noStroke();
-      p.fill(200,200,200);
+      p.fill(200);
       for(var t = 0; t <= 5; t++){
         var val = 800 - (800/5)*t;
         p.textAlign(p.RIGHT);
@@ -213,7 +209,6 @@ $(document).ready(function(){
         p.drawGraph(regions[r]);
       }
       for(var r = 0; r < regions.length; r++){
-        // drawKeyLabel(regions[r], r);
         var newKeyLabel = new KeyLabel(regions[r],width-170, 50 + 20*r);
         keyLabels.push(newKeyLabel);
         newKeyLabel.draw();
@@ -233,6 +228,9 @@ $(document).ready(function(){
         keyHover = '';
       }
       drawISOLabel();
+      p.textAlign(p.LEFT);
+      p.fill(200);
+      p.text('Deaths per 100,000 births', 20, height/2-15, 75, 30);
       for (var r = 0; r < regions.length; r++){
         p.drawPointLabels(regions[r]);
       }
