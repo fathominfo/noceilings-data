@@ -5,17 +5,61 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script type="text/javascript" src="js/p5.min.js"></script>
     <script type="text/javascript" src="js/mm.js"></script>
+    <style>
+      #container {
+        width: 650px;
+        margin: 0 auto;
+      }
+
+      #sketch {
+        position: relative;
+        width: 600px;
+      }
+
+      #sketch .title {
+        padding: 25px 25px 0 25px;
+        font-size: 20px;
+        font-family:Average,serif;
+        width: 500px;
+      }
+
+      #sketch .interact {
+        margin: 15px 25px;
+        font-size: 12px;
+        font-style: italic;
+        font-family: Helvetica, Arial, sans-serif;
+        width: 550px;
+      }
+
+      #embed {
+        /*padding: 25px;*/
+        margin: 0px 25px 10px 25px;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        /*background: #eee;*/
+        width: 600px;
+        /*color: rgb(4,95,123);*/
+      }
+      
+    </style>
   </head>
   <body>
-    <div id="sketch"></div>
-    <textarea id="embed" style="width: 600px; height: 200px; font-family: courier, monospace;">
-    </textarea>
+    <div id="container">
+      <div id="sketch"></div>
+      <!-- Figure out embed -->
+      <!-- <div id="embed">
+        Embed this chart
+        <textarea style="width: 100%; height: 200px; font-family: courier, monospace;">
+       </textarea>
+      </div> -->
+    </div>
     <script>
     $.ajax({
       dataType: 'text',
-      url: '/js/mm.js',
+      url: '/js/embedded-code.txt',
       success: function (script_file) {
-        $('#embed').html('&lt;div id="sketch"&gt;&lt;/div&gt;' + '&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"&gt;&lt;/script&gt;' + '&lt;script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.0.0/p5.js"&gt;&lt;/script&gt;' + '&lt;script&gt;' + String(script_file) + '&lt;/script&gt;');
+        // $('#embed textarea').html('&lt;div id="sketch"&gt;&lt;/div&gt;' + '&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"&gt;&lt;/script&gt;' + '&lt;script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.0.0/p5.js"&gt;&lt;/script&gt;' + '&lt;script&gt;' + String(script_file) + '&lt;/script&gt;');
+        // $('#embed textarea').text(String(script_file));
       }
     });
     </script>

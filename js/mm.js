@@ -285,19 +285,6 @@ $(document).ready(function(){
   };
 
   $('#sketch').append('<div class="title">Globally, mothers are 42% less likely to die from complications of pregnancy than in 1995.</div>');
-  $('#sketch .title').css({
-    'padding':'25px 25px 0 25px',
-    'font-size':'20px',
-    'font-family':'Average,serif',
-    'width': width-50 + 'px'
-  });
   $('#sketch').append('<div class="interact">Hover over the chart to see the change in maternal mortality since 1995 for each region.</div>');
-  $('#sketch .interact').css({
-    'margin':'15px 25px',
-    'font-size':'12px',
-    'font-style':'italic',
-    'font-family':'Helvetica, Arial, sans-serif',
-    'width': width-50 + 'px'
-  });
   var myp5 = new p5(s);
 });
