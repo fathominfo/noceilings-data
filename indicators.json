@@ -81,7 +81,7 @@
         "name": "Infant mortality rate, total",
         "secondary": "",
         "tertiary": "total",
-        "unit": "%",
+        "unit": "Deaths Per 1,000 Births",
         "source": "Compiled by World Bank, Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.",
         "definition": "Number of deaths under one year of age occurring among the live births in a given geographical area during a given year, per 1,000 live births occurring among the population of the given geographical area during the same year.",
         "flavor": "num"
@@ -110,7 +110,7 @@
         "name": "Neonatal mortality rate, total",
         "secondary": "",
         "tertiary": "total",
-        "unit": "%",
+        "unit": "Deaths Per 1,000 Births",
         "source": "Compiled by World Bank, Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.",
         "definition": "Neonatal mortality rate is the number of neonates dying before reaching 28 days of age, per 1,000 live births in a given year.",
         "flavor": "num"
