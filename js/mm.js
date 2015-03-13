@@ -83,18 +83,24 @@ $(document).ready(function(){
           && p.mouseY >= (this.cy - this.r)
       ){
         p.fill(255,220);
-        p.rectMode(p.CENTER);
         p.textAlign(p.CENTER);
         if(hovered.length <= 1){ // if mouse is only over one dot, draw its label
+          keyHover = this.ISO;
           var label = Math.round(this.value) + ' deaths per 100,000 births';
-          p.rect(this.cx,this.cy-14,p.textWidth(label)+8,18);
+          p.rect(this.cx-37, this.cy-35, 75,30);
           p.fill(this.color);
-          p.text(label,this.cx,this.cy-10);
+          p.text(label,this.cx,this.cy-40, 75, 50);
         } else { // otherwise, draw the dot on top (last dot in array)
-          var label = Math.round(hovered[hovered.length-1].value) + ' deaths per 100,000 births';
-          p.rect(hovered[hovered.length-1].cx,hovered[hovered.length-1].cy-14,p.textWidth(label)+8,18);
-          p.fill(hovered[hovered.length-1].color);
-          p.text(label,hovered[hovered.length-1].cx,hovered[hovered.length-1].cy-10);
+          if(this.ISO == hovered[0].ISO){ // only draw for first point so it draws only once, not for every hovered point
+            keyHover = hovered[hovered.length-1].ISO;
+            var label = Math.round(hovered[hovered.length-1].value) + ' deaths per 100,000 births';
+            p.rect(hovered[hovered.length-1].cx-37, hovered[hovered.length-1].cy-35, 75,30);
+            p.fill(hovered[hovered.length-1].color);
+            p.text(label,hovered[hovered.length-1].cx,hovered[hovered.length-1].cy-40, 75, 50);
+          }
+        }
+        if(this.ISO == hovered[0].ISO){
+          drawISOLabel(keyHover);
         }
       }
     }
@@ -169,7 +175,6 @@ $(document).ready(function(){
       }
       if(hoveredLabels == 0){ // if nothing is hovered, reset to no hover
         keyHover = '';
-        drawISOLabel('GLE');
       } else { // otherwise, draw the label for the region being hovered over
         drawISOLabel(keyHover);
       }
@@ -213,6 +218,7 @@ $(document).ready(function(){
     }
 
     function drawISOLabel(ISO){
+      p.textAlign(p.LEFT);
       var firstYear = '';
       for(var r = 0; r < regions.length; r++){
         if(ISO == regions[r]){
@@ -229,7 +235,7 @@ $(document).ready(function(){
                 direction = '+';
               }
               p.fill(pts[pt].color);
-              p.text(iso2name[pts[pt].ISO] + ' ' + direction + Math.abs(Math.round(perc)) + '%', pts[pt].cx + 10, pts[pt].cy - 10, 100, 30);
+              p.text(iso2name[pts[pt].ISO] + ' ' + direction + Math.abs(Math.round(perc)) + '%', pts[pt].cx + 10, pts[pt].cy - 10, 75, 30);
             }
           }
         }
@@ -278,5 +284,20 @@ $(document).ready(function(){
 
   };
 
+  $('#sketch').append('<div class="title">Globally, mothers are 42% less likely to die from complications of pregnancy than in 1995.</div>');
+  $('#sketch .title').css({
+    'padding':'25px 25px 0 25px',
+    'font-size':'20px',
+    'font-family':'Average,serif',
+    'width': width-50 + 'px'
+  });
+  $('#sketch').append('<div class="interact">Hover over the chart to see the change in maternal mortality since 1995 for each region.</div>');
+  $('#sketch .interact').css({
+    'margin':'15px 25px',
+    'font-size':'12px',
+    'font-style':'italic',
+    'font-family':'Helvetica, Arial, sans-serif',
+    'width': width-50 + 'px'
+  });
   var myp5 = new p5(s);
 });
