@@ -33,12 +33,29 @@
 
       #embed {
         /*padding: 25px;*/
-        margin: 0px 25px 10px 25px;
+        margin: 0px 25px 50px 25px;
         font-family: Helvetica, Arial, sans-serif;
         font-size: 11px;
         /*background: #eee;*/
         width: 600px;
         /*color: rgb(4,95,123);*/
+      }
+
+      #embed input {
+        display: inline-block;
+        padding: 4px;
+        margin: 5px 10px 0 0;
+      }
+
+      #embed-generate {
+        border: 1px solid #666;
+        padding: 5px;
+        display: inline-block;
+      }
+
+      #embed-result {
+        display: inline-block;
+        margin-left: 10px;
       }
       
     </style>
@@ -88,7 +105,32 @@
         embed_code = embed_code.replace(/DEFINE_WIDTH_MINUS_100/g, width-100);
         embed_code = embed_code.replace(/DEFINE_WIDTH/g,width);
         embed_code = embed_code.replace(/DEFINE_HEIGHT/g,height);
+
         $('#embed textarea').text(embed_code);
+        $('#embed').append('<input id="embed-width" value="' + width + '"></input>');
+        $('#embed').append('<input id="embed-height" value="' + height + '"></input>');
+        $('#embed').append('<button id="embed-generate">Generate Embed</button>');
+        $('#embed').append('<div id="embed-result"></div>');
+
+        $('#embed-generate').on('click',function(){
+          $('#embed-result').hide();
+          var embed_code = String(script_file);
+          var width = Math.max(400,$('#embed-width').val());
+          var height = Math.max(400,$('#embed-height').val());
+          $('#embed-width').val(width);
+          $('#embed-height').val(height);
+          $('#embed textarea').text()
+          embed_code = embed_code.replace(/DEFINE_INDICATOR_URL/g,'json/MATMORTA.json');
+          embed_code = embed_code.replace(/DEFINE_REGION_URL/g,'region-names.json');
+          embed_code = embed_code.replace(/DEFINE_CONTAINER_DIV_ID/g,'sketch-' + today);
+          embed_code = embed_code.replace(/DEFINE_WIDTH_PLUS_50/g, width+50);
+          embed_code = embed_code.replace(/DEFINE_WIDTH_MINUS_50/g, width-50);
+          embed_code = embed_code.replace(/DEFINE_WIDTH_MINUS_100/g, width-100);
+          embed_code = embed_code.replace(/DEFINE_WIDTH/g,width);
+          embed_code = embed_code.replace(/DEFINE_HEIGHT/g,height);
+          $('#embed textarea').text(embed_code);
+          $('#embed-result').fadeIn().text('New code generated');
+        });
       }
     });
     </script>

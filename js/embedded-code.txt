@@ -1,35 +1,36 @@
-<div id="sketch"></div>
+<div id="DEFINE_CONTAINER_DIV_ID"></div>
 <style>
   #container {
-    width: 650px;
+    width: DEFINE_WIDTH_PLUS_50px;
     margin: 0 auto;
   }
 
-  #sketch {
+  #DEFINE_CONTAINER_DIV_ID {
     position: relative;
-    width: 600px;
+    width: DEFINE_WIDTHpx;
   }
 
-  #sketch .title {
+  #DEFINE_CONTAINER_DIV_ID .title {
     padding: 25px 25px 0 25px;
     font-size: 20px;
-    font-family:Average,serif;
-    width: 500px;
+    font-family: serif;
+    width: DEFINE_WIDTH_MINUS_100px;
   }
 
-  #sketch .interact {
+  #DEFINE_CONTAINER_DIV_ID .interact {
     margin: 15px 25px;
     font-size: 12px;
     font-style: italic;
-    font-family: Helvetica, Arial, sans-serif;
-    width: 550px;
+    font-family: sans-serif;
+    width: DEFINE_WIDTH_MINUS_50px;
   }
 
-  #embed {
-    margin: 0px 25px 10px 25px;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 11px;
-    width: 600px;
+  #DEFINE_CONTAINER_DIV_ID .creds {
+    margin: 15px 25px;
+    font-size: 10px;
+    font-style: italic;
+    font-family: serif;
+    width: DEFINE_WIDTH_MINUS_50px;
   }
   
 </style>
@@ -309,7 +310,8 @@ $(document).ready(function(){
 
     p.setup = function() {
       var mm_canvas = p.createCanvas(width, height);
-      mm_canvas.parent('DEFINE_CONTAINR_DIV_ID');
+      mm_canvas.parent('DEFINE_CONTAINER_DIV_ID');
+      $('#DEFINE_CONTAINER_DIV_ID').append('<div class="creds">Graph from <a href="http://fathom.info" target="_blank">Fathom Information Design</a>. Learn more at <a href="http://noceilings.org" target="_blank">noceilings.org</a>.</div>');
     };
 
     p.draw = function() {
@@ -321,8 +323,8 @@ $(document).ready(function(){
 
   };
 
-  $('#DEFINE_CONTAINR_DIV_ID').append('<div class='title'>Globally, mothers are 42% less likely to die from complications of pregnancy than in 1995.</div>');
-  $('#DEFINE_CONTAINR_DIV_ID').append('<div class='interact'>Hover over the chart to see the change in maternal mortality since 1995 for each region.</div>');
+  $('#DEFINE_CONTAINER_DIV_ID').append('<div class="title">Globally, mothers are 42% less likely to die from complications of pregnancy than in 1995.</div>');
+  $('#DEFINE_CONTAINER_DIV_ID').append('<div class="interact">Hover over the chart to see the change in maternal mortality since 1995 for each region.</div>');
   var myp5 = new p5(s);
 });
 </script>
