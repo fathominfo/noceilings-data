@@ -1,47 +1,47 @@
-<div id="sketch-20150313-1939"></div>
+<div id="sketch-20150323-163"></div>
 <style>
   #container {
-    width: 450px;
+    width: 650px;
     margin: 0 auto;
   }
 
-  #sketch-20150313-1939 {
+  #sketch-20150323-163 {
     position: relative;
-    width: 400px;
+    width: 600px;
   }
 
-  #sketch-20150313-1939 .title {
+  #sketch-20150323-163 .title {
     padding: 25px 25px 0 25px;
     font-size: 20px;
     font-family: serif;
-    width: 300px;
+    width: 500px;
   }
 
-  #sketch-20150313-1939 .interact {
+  #sketch-20150323-163 .interact {
     margin: 15px 25px;
     font-size: 12px;
     font-style: italic;
     font-family: sans-serif;
-    width: 350px;
+    width: 550px;
   }
 
-  #sketch-20150313-1939 .creds {
+  #sketch-20150323-163 .creds {
     margin: 15px 25px;
     font-size: 10px;
     font-style: italic;
     font-family: serif;
-    width: 350px;
+    width: 550px;
   }
   
 </style>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><script src="js/p5.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><script src="http://orglennon.github.io/noceilings-data/js/p5.min.js"></script>
 <script>
 $(document).ready(function(){
   var data = '';
   var iso2name = '';
   var keyHover = '';
 
-  var width = 400;
+  var width = 600;
   var height = 400;
 
   var pts = [];
@@ -303,15 +303,15 @@ $(document).ready(function(){
     }
 
     p.preload = function(){
-      data = p.loadJSON('json/MATMORTA.json'); // load the maternal mortality indicator
-      iso2name = p.loadJSON('region-names.json');
+      data = p.loadJSON('/json/MATMORTA.json'); // load the maternal mortality indicator
+      iso2name = p.loadJSON('/region-names.json');
       iso2name['GLE'] = 'Global'; // adding global name
     }
 
     p.setup = function() {
       var mm_canvas = p.createCanvas(width, height);
-      mm_canvas.parent('sketch-20150313-1939');
-      $('#sketch-20150313-1939').append('<div class="creds">Graph from <a href="http://fathom.info" target="_blank">Fathom Information Design</a>. Learn more at <a href="http://noceilings.org" target="_blank">noceilings.org</a>.</div>');
+      mm_canvas.parent('sketch-20150323-163');
+      $('#sketch-20150323-163').append('<div class="creds">Graph from <a href="http://fathom.info" target="_blank">Fathom Information Design</a>. Learn more at <a href="http://noceilings.org" target="_blank">noceilings.org</a>.</div>');
     };
 
     p.draw = function() {
@@ -323,8 +323,8 @@ $(document).ready(function(){
 
   };
 
-  $('#sketch-20150313-1939').append('<div class="title">Globally, mothers are 42% less likely to die from complications of pregnancy than in 1995.</div>');
-  $('#sketch-20150313-1939').append('<div class="interact">Hover over the chart to see the change in maternal mortality since 1995 for each region.</div>');
+  $('#sketch-20150323-163').append('<div class="title">Globally, mothers are 42% less likely to die from complications of pregnancy than in 1995.</div>');
+  $('#sketch-20150323-163').append('<div class="interact">Hover over the chart to see the change in maternal mortality since 1995 for each region.</div>');
   var myp5 = new p5(s);
 });
 </script>
