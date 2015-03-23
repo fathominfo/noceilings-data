@@ -73,7 +73,7 @@
     <script>
     $.ajax({
       dataType: 'text',
-      url: '/js/embedded-code.txt',
+      url: '/noceilings-data/js/embedded-code.txt',
       success: function (script_file) {
         // $('#embed textarea').html('&lt;div id="sketch"&gt;&lt;/div&gt;' + '&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"&gt;&lt;/script&gt;' + '&lt;script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.0.0/p5.js"&gt;&lt;/script&gt;' + '&lt;script&gt;' + String(script_file) + '&lt;/script&gt;');
         var embed_code = String(script_file);

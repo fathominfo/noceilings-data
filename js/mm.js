@@ -265,8 +265,8 @@ $(document).ready(function(){
     }
 
     p.preload = function(){
-      data = p.loadJSON("../json/MATMORTA.json"); // load the maternal mortality indicator
-      iso2name = p.loadJSON("../region-names.json");
+      data = p.loadJSON("/noceilings-data/json/MATMORTA.json"); // load the maternal mortality indicator
+      iso2name = p.loadJSON("/noceilings-data/region-names.json");
       iso2name['GLE'] = 'Global'; // adding global name
     }
 
