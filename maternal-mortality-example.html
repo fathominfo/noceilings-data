@@ -37,8 +37,16 @@
         font-family: Helvetica, Arial, sans-serif;
         font-size: 11px;
         /*background: #eee;*/
-        width: 600px;
+        width: 480px;
         /*color: rgb(4,95,123);*/
+      }
+
+      #embed textarea {
+        width: 100%;
+        margin: 5px 0;
+        display: block;
+        font-family: monospace;
+        height: 50px;
       }
 
       #embed input {
@@ -66,7 +74,7 @@
       <!-- Figure out embed -->
       <div id="embed">
         Embed this chart
-        <textarea style="width: 100%; height: 200px; font-family: courier, monospace;">
+        <textarea>
        </textarea>
       </div>
     </div>
@@ -133,7 +141,7 @@
     //     });
       // }
     // });
-    $('#embed textarea').text('<iframe style="border: none; width: 600px; height: 600px;" src="http://orglennon.github.io/noceilings-data/embed-test.html"></iframe>');
+    $('#embed textarea').text('<iframe style="border: none; width: 600px; height: 600px;" src="http://' + document.location.hostname + '/noceilings-data/embed-test.html"></iframe>');
     </script>
   </body>
 </html>
