@@ -34,7 +34,7 @@
   }
   
 </style>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><script src="http://orglennon.github.io/noceilings-data/js/p5.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><script src="/noceilings-data/js/p5.min.js"></script>
 <script>
 $(document).ready(function(){
   var data = '';
@@ -303,8 +303,8 @@ $(document).ready(function(){
     }
 
     p.preload = function(){
-      data = p.loadJSON('/json/MATMORTA.json'); // load the maternal mortality indicator
-      iso2name = p.loadJSON('/region-names.json');
+      data = p.loadJSON('/noceilings-data/json/MATMORTA.json'); // load the maternal mortality indicator
+      iso2name = p.loadJSON('/noceilings-data/region-names.json');
       iso2name['GLE'] = 'Global'; // adding global name
     }
 
