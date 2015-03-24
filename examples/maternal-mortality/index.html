@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>No Ceilings Data Examples – Maternal Mortality</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script type="text/javascript" src="js/p5.min.js"></script>
+    <script type="text/javascript" src="js/sketch.js"></script>
+    <style>
+      #container {
+        width: 650px;
+        margin: 0 auto;
+      }
+
+      #sketch {
+        position: relative;
+        width: 600px;
+      }
+
+      #sketch .title {
+        padding: 25px 25px 0 25px;
+        font-size: 20px;
+        font-family:Average,serif;
+        width: 500px;
+      }
+
+      #sketch .interact {
+        margin: 15px 25px;
+        font-size: 12px;
+        font-style: italic;
+        font-family: Helvetica, Arial, sans-serif;
+        width: 550px;
+      }
+
+      #embed {
+        /*padding: 25px;*/
+        margin: 0px 25px 50px 25px;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        /*background: #eee;*/
+        width: 480px;
+        /*color: rgb(4,95,123);*/
+      }
+
+      #embed textarea {
+        width: 100%;
+        margin: 5px 0;
+        display: block;
+        font-family: monospace;
+        height: 50px;
+      }
+
+      #embed input {
+        display: inline-block;
+        padding: 4px;
+        margin: 5px 10px 0 0;
+      }
+
+      #embed-generate {
+        border: 1px solid #666;
+        padding: 5px;
+        display: inline-block;
+      }
+
+      #embed-result {
+        display: inline-block;
+        margin-left: 10px;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <div id="sketch"></div>
+      <!-- Figure out embed -->
+      <div id="embed">
+        Embed this chart
+        <textarea>
+       </textarea>
+      </div>
+    </div>
+    <script>
+    $('#embed textarea').text('<iframe style="border: none; width: 600px; height: 600px;" src="http://' + document.location.hostname + '/noceilings-data/examples/maternal-mortality/embed.html"></iframe>');
+    </script>
+  </body>
+</html>
