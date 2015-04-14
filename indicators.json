@@ -2065,7 +2065,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved highest poroficiency",
+        "definition": "Survey of adult skills, % who achieved highest proficiency",
         "flavor": "num"
       },
       "PICPHIMA": {
@@ -2074,7 +2074,7 @@
         "tertiary": "male",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved highest poroficiency",
+        "definition": "Survey of adult skills, % who achieved highest proficiency",
         "flavor": "num"
       },
       "PICPLWFE": {
@@ -2083,7 +2083,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency",
         "flavor": "num"
       },
       "PICPLWMA": {
@@ -2092,7 +2092,7 @@
         "tertiary": "male",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency",
         "flavor": "num"
       }
     },
@@ -2103,7 +2103,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved highest poroficiency",
+        "definition": "Survey of adult skills, % who achieved highest proficiency",
         "flavor": "num"
       },
       "PICLHIMA": {
@@ -2112,7 +2112,7 @@
         "tertiary": "male",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved highest poroficiency",
+        "definition": "Survey of adult skills, % who achieved highest proficiency",
         "flavor": "num"
       },
       "PICLLWFE": {
@@ -2121,7 +2121,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency",
         "flavor": "num"
       },
       "PICLLWMA": {
@@ -2130,7 +2130,7 @@
         "tertiary": "male",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency",
         "flavor": "num"
       },
       "PCMLFEHT": {
@@ -2139,7 +2139,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency, by household wealth percentiles",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency, by household wealth percentiles",
         "flavor": "num"
       },
       "PCMLFEBT": {
@@ -2148,7 +2148,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency, by household wealth percentiles",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency, by household wealth percentiles",
         "flavor": "num"
       },
       "PICLMNFE": {
@@ -2177,7 +2177,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved highest poroficiency",
+        "definition": "Survey of adult skills, % who achieved highest proficiency",
         "flavor": "num"
       },
       "PICNHIMA": {
@@ -2186,7 +2186,7 @@
         "tertiary": "male",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved highest poroficiency",
+        "definition": "Survey of adult skills, % who achieved highest proficiency",
         "flavor": "num"
       },
       "PICNLWFE": {
@@ -2195,7 +2195,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency",
         "flavor": "num"
       },
       "PICNLWMA": {
@@ -2204,7 +2204,7 @@
         "tertiary": "male",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency",
         "flavor": "num"
       },
       "PCMNFEHT": {
@@ -2213,7 +2213,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency, by household wealth percentiles",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency, by household wealth percentiles",
         "flavor": "num"
       },
       "PCMNFEBT": {
@@ -2222,7 +2222,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency, by household wealth percentiles",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency, by household wealth percentiles",
         "flavor": "num"
       },
       "PICNMNFE": {
@@ -2251,7 +2251,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency, by household wealth percentiles",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency, by household wealth percentiles",
         "flavor": "num"
       },
       "PCMPFEBT": {
@@ -2260,7 +2260,7 @@
         "tertiary": "female",
         "unit": "Number",
         "source": "Organisation for Economic Co-operation and Development (OECD)",
-        "definition": "Survey of adult skills, % who achieved lowest poroficiency, by household wealth percentiles",
+        "definition": "Survey of adult skills, % who achieved lowest proficiency, by household wealth percentiles",
         "flavor": "num"
       }
     },
