@@ -68,8 +68,16 @@ To map a country from a 3-letter ISO code to its name, use [this list](https://r
 The country region groupings are from the World Bank. Included in this repository is a file that maps [region code to region name](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/region-names.json) and another that maps [region codes to a list of countries](https://raw.githubusercontent.com/fathominfo/noceilings-data/master/region-countries.json). Both are in JSON format. 
 
 
+### Examples!
+
+We've added a few [examples](https://github.com/fathominfo/noceilings-data/tree/master/examples) to help you get up and running quickly. Please modify, update, and make use of this code! Make new examples with other tools, environments, and languages. Share what you find and tell us what you've made with the data.
+
+
 ### Additional background
 
 We (Fathom) received this data in a pair of flat files (one for numeric, one non-numeric). Where possible, we've corrected some errors, grouped the data into categories (the theme, primary, secondary, and tertiary columns), and are making this available in an accessible format to be usable for other projects. 
 
-Last updated 8 March 2015
+If you find an error, file an issue and let us know. Many of the files seen here are auto-generated as part of our process of building [noceilings.org](http://noceilings.org). We'll do our best to update things or try to find better data sources. This is ~850,000 data points across hundreds of files: errors aren't unlikely, but you can help us keep things clear and up to date.
+
+
+*Last updated 14 April 2015*
