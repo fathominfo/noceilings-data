@@ -8122,7 +8122,7 @@
         "unit": "Score",
         "source": "U.S. Department of State",
         "definition": "TIER 1: Countries whose governments fully comply with the Trafficking Victims Protection Act\u2019s (TVPA) minimum standards. TIER 2: Countries whose governments do not fully comply with the TVPA\u2019s minimum standards, but are making significant efforts to bring themselves into compliance with those standards. TIER 2 WATCHLIST: Countries whose governments do not fully comply with the TVPA\u2019s minimum standards, but are making significant efforts to bring themselves into compliance with those standards AND: a) The absolute number of victims of severe forms of trafficking is very significant or is significantly increasing; b) There is a failure to provide evidence of increasing efforts to combat severe forms of trafficking in persons from the previous year; or c) The determination that a country is making significant efforts to bring itself into compliance with minimum standards was based on commitments by the country to take additional future steps over the next year. TIER 3: Countries whose governments do not fully comply with the minimum standards and are not making significant efforts to do so.",
-        "flavor": "0;1;2;2wl;3;sc"
+        "flavor": "0|sc;1|0;2|3;3|2wl;4|2;5|1"
       }
     },
     "Legislation exists that specifically addresses...": {
@@ -8175,7 +8175,7 @@
         "unit": "Free (F 0-30), Partly Free (PF 31-60), Not Free (NF 61-100)",
         "source": "Freedom House",
         "definition": "The index assesses the degree of print, broadcast, and internet freedom in every country in the world, analyzing the events of each calendar year. It provides numerical rankings and scores (as well as categorisations of each country's media as \"Free,\" \"Partly Free,\" or \"Not Free.\")",
-        "flavor": "f;nf;pf"
+        "flavor": "1|nf;2|pf;3|f"
       }
     },
     "News subjects that are women, %": {
