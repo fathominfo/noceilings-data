@@ -17,13 +17,16 @@ import processing.pdf.*;
 String indicator = "GERSFEIN";
 String year = "2011";
 
+ // Path to the file in the "CSV" folder that's two steps higher in this repo
+ String csvPath;
+
 
 
 
 void setup() {
   size(1280, 720);
-  // Path to the file in the "CSV" folder that's two steps higher in this repo
-  String csvPath = sketchPath("../../csv/" + indicator + ".csv");
+ 
+  csvPath = sketchPath("../../csv/" + indicator + ".csv");
   
   // Load a file that links ISO3 codes (used in the data) to ISO2 (for the map)
   Table lookupTable = loadTable("iso3-to-iso2.csv", "header");
