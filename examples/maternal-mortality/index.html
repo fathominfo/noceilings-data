@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>No Ceilings Data Examples – Maternal Mortality</title>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script type="text/javascript" src="js/p5.min.js"></script>
     <script type="text/javascript" src="js/sketch.js"></script>
     <style>
@@ -68,18 +68,18 @@
       
     </style>
   </head>
+  
   <body>
     <div id="container">
       <div id="sketch"></div>
-      <!-- Figure out embed -->
+
       <div id="embed">
         Embed this chart
-        <textarea>
-       </textarea>
+        <textarea></textarea>
       </div>
-    </div>
+    </div>    
     <script>
-    $('#embed textarea').text('<iframe style="border: none; width: 600px; height: 600px;" src="http://' + document.location.hostname + '/noceilings-data/examples/maternal-mortality/embed.html"></iframe>');
+    $('#embed textarea').text('<iframe style="border: none; width: 600px; height: 600px;" src="embed.html"></iframe>');
     </script>
   </body>
 </html>
